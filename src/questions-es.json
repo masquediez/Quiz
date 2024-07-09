@@ -1,0 +1,1702 @@
+[
+  {
+    "question": "¿Qué modelo de nube permite a una organización tener control total sobre sus recursos y datos, generalmente con una mayor seguridad y privacidad?",
+    "options": [
+      "Nube pública",
+      "Nube privada",
+      "Nube híbrida",
+      "Nube comunitaria"
+    ],
+    "answer": "Nube privada"
+  },
+  {
+    "question": "¿Cuál de las siguientes opciones describe mejor la informática sin servidor en Azure?",
+    "options": [
+      "Administrar directamente los servidores virtuales subyacentes",
+      "Pagar solo por el tiempo de ejecución del código",
+      "Utilizar máquinas virtuales para ejecutar código",
+      "Ejecutar aplicaciones en entornos aislados"
+    ],
+    "answer": "Pagar solo por el tiempo de ejecución del código"
+  },
+  {
+    "question": "¿Qué tipo de servicio en la nube proporciona una plataforma completa para desarrollar, ejecutar y administrar aplicaciones sin preocuparse por la infraestructura subyacente?",
+    "options": [
+      "Infraestructura como servicio (IaaS)",
+      "Plataforma como servicio (PaaS)",
+      "Software como servicio (SaaS)",
+      "Servidor dedicado"
+    ],
+    "answer": "Plataforma como servicio (PaaS)"
+  },
+  {
+    "question": "¿Cuál de las siguientes opciones describe mejor el concepto de alta disponibilidad en la nube?",
+    "options": [
+      "Garantizar que los recursos estén disponibles en todo momento",
+      "Mover aplicaciones entre diferentes regiones",
+      "Asegurar la protección contra accesos no autorizados",
+      "Redundancia de datos para recuperación ante desastres"
+    ],
+    "answer": "Garantizar que los recursos estén disponibles en todo momento"
+  },
+  {
+    "question": "¿Qué herramienta de Azure se utiliza para supervisar, diagnosticar y comprender mejor el rendimiento de las aplicaciones y servicios?",
+    "options": [
+      "Azure Policy",
+      "Azure Monitor",
+      "Azure Purview",
+      "Azure Security Center"
+    ],
+    "answer": "Azure Monitor"
+  },
+  {
+    "question": "¿Qué servicio de Azure se utiliza para proteger las identidades y gestionar el acceso de los usuarios a aplicaciones y recursos?",
+    "options": [
+      "Azure Active Directory (Azure AD)",
+      "Azure Security Center",
+      "Azure Key Vault",
+      "Azure Purview"
+    ],
+    "answer": "Azure Active Directory (Azure AD)"
+  },
+  {
+    "question": "¿Qué componente de Azure se utiliza para agrupar recursos relacionados, como máquinas virtuales, redes y bases de datos?",
+    "options": [
+      "Azure Subscription",
+      "Azure Resource Group",
+      "Azure Management Group",
+      "Azure Service Health"
+    ],
+    "answer": "Azure Resource Group"
+  },
+  {
+    "question": "¿Cuál de las siguientes opciones describe mejor la función de Azure Kubernetes Service (AKS)?",
+    "options": [
+      "Servicio para crear redes virtuales en Azure",
+      "Orquestador de contenedores que simplifica la implementación y administración de aplicaciones en contenedores",
+      "Herramienta para supervisar la configuración de recursos en Azure",
+      "Servicio de almacenamiento de archivos en la nube de Azure"
+    ],
+    "answer": "Orquestador de contenedores que simplifica la implementación y administración de aplicaciones en contenedores"
+  },
+  {
+    "question": "¿Qué servicio de Azure se utiliza para migrar cargas de trabajo locales a la nube de Azure?",
+    "options": [
+      "Azure Site Recovery",
+      "Azure Active Directory (Azure AD)",
+      "Azure Blob Storage",
+      "Azure Purview"
+    ],
+    "answer": "Azure Site Recovery"
+  },
+  {
+    "question": "¿Cuál es la principal diferencia entre Azure Virtual Machines (VM) y Azure App Service?",
+    "options": [
+      "VM proporciona acceso directo al sistema operativo subyacente, mientras que App Service no",
+      "App Service permite ejecutar cualquier tipo de aplicación, mientras que VM solo soporta aplicaciones web",
+      "VM es más económico que App Service para ejecutar aplicaciones web",
+      "App Service ofrece mayor escalabilidad que VM"
+    ],
+    "answer": "VM proporciona acceso directo al sistema operativo subyacente, mientras que App Service no"
+  },
+  {
+    "question": "¿Qué tipo de red en Azure proporciona una conexión privada entre los recursos de Azure y los recursos locales, utilizando una conexión dedicada o privada a través de internet?",
+    "options": [
+      "Azure Virtual Network",
+      "Azure VPN Gateway",
+      "Azure ExpressRoute",
+      "Azure DNS"
+    ],
+    "answer": "Azure ExpressRoute"
+  },
+  {
+    "question": "¿Qué herramienta de Azure se utiliza para implementar, administrar y monitorear recursos de Azure utilizando scripts?",
+    "options": [
+      "Azure Portal",
+      "Azure Cloud Shell",
+      "Azure Resource Manager (ARM)",
+      "Azure Advisor"
+    ],
+    "answer": "Azure Cloud Shell"
+  },
+  {
+    "question": "¿Qué modelo de implementación de la nube proporciona una mezcla de nubes públicas y privadas, permitiendo compartir datos y aplicaciones entre ellas?",
+    "options": [
+      "Nube pública",
+      "Nube privada",
+      "Nube híbrida",
+      "Nube comunitaria"
+    ],
+    "answer": "Nube híbrida"
+  },
+  {
+    "question": "¿Cuál de los siguientes servicios de Azure proporciona almacenamiento en la nube escalable y duradero para datos no estructurados?",
+    "options": [
+      "Azure Blob Storage",
+      "Azure SQL Database",
+      "Azure Cosmos DB",
+      "Azure Data Lake Storage"
+    ],
+    "answer": "Azure Blob Storage"
+  },
+  {
+    "question": "¿Qué servicio de Azure se utiliza para proteger las claves de cifrado y otros secretos de manera segura?",
+    "options": [
+      "Azure Security Center",
+      "Azure Active Directory (Azure AD)",
+      "Azure Key Vault",
+      "Azure Purview"
+    ],
+    "answer": "Azure Key Vault"
+  },
+  {
+    "question": "¿Qué tipo de servicio en la nube permite a los usuarios acceder a aplicaciones basadas en la web sin necesidad de instalarlas ni mantenerlas localmente?",
+    "options": [
+      "Infraestructura como servicio (IaaS)",
+      "Plataforma como servicio (PaaS)",
+      "Software como servicio (SaaS)",
+      "Servidor dedicado"
+    ],
+    "answer": "Software como servicio (SaaS)"
+  },
+  {
+    "question": "¿Qué herramienta de Azure se utiliza para crear, asignar y hacer cumplir políticas en toda la organización?",
+    "options": [
+      "Azure Policy",
+      "Azure Monitor",
+      "Azure Advisor",
+      "Azure Purview"
+    ],
+    "answer": "Azure Policy"
+  },
+  {
+    "question": "¿Cuál de los siguientes es un componente fundamental de Azure que representa una colección de recursos agrupados?",
+    "options": [
+      "Azure Directory",
+      "Azure Management Group",
+      "Azure Resource Group",
+      "Azure Subscription"
+    ],
+    "answer": "Azure Resource Group"
+  },
+  {
+    "question": "¿Qué servicio de Azure se utiliza para administrar y proteger la configuración de red en Azure?",
+    "options": [
+      "Azure Site Recovery",
+      "Azure Virtual Network",
+      "Azure ExpressRoute",
+      "Azure Security Center"
+    ],
+    "answer": "Azure Virtual Network"
+  },
+  {
+    "question": "¿Cuál de las siguientes opciones describe mejor el propósito de Azure Purview?",
+    "options": [
+      "Analizar y visualizar datos para obtener insights",
+      "Gestionar y asegurar claves y secretos",
+      "Gobernar y proteger datos en Azure",
+      "Monitorear y mejorar la eficiencia operativa"
+    ],
+    "answer": "Gobernar y proteger datos en Azure"
+  },
+  {
+    "question": "¿Qué servicio de Azure se utiliza para migrar bases de datos y aplicaciones locales a la nube de Azure?",
+    "options": [
+      "Azure Migrate",
+      "Azure Key Vault",
+      "Azure Active Directory (Azure AD)",
+      "Azure Blob Storage"
+    ],
+    "answer": "Azure Migrate"
+  },
+  {
+    "question": "¿Cuál de las siguientes opciones describe mejor la funcionalidad de Azure Advisor?",
+    "options": [
+      "Proporciona recomendaciones para mejorar la seguridad de los recursos de Azure",
+      "Ofrece consejos para optimizar los costos y mejorar el rendimiento de los recursos de Azure",
+      "Monitorea el estado de los servicios en tiempo real y envía alertas",
+      "Ayuda a diseñar arquitecturas de red escalables en Azure"
+    ],
+    "answer": "Ofrece consejos para optimizar los costos y mejorar el rendimiento de los recursos de Azure"
+  },
+  {
+    "question": "¿Qué tipo de servicio en la nube proporciona una infraestructura virtualizada a través de internet, donde los usuarios pueden implementar y administrar sistemas operativos y aplicaciones?",
+    "options": [
+      "Infraestructura como servicio (IaaS)",
+      "Plataforma como servicio (PaaS)",
+      "Software como servicio (SaaS)",
+      "Servidor dedicado"
+    ],
+    "answer": "Infraestructura como servicio (IaaS)"
+  },
+  {
+    "question": "¿Qué herramienta de Azure se utiliza para monitorear y mejorar la eficiencia operativa de los recursos de Azure?",
+    "options": [
+      "Azure Advisor",
+      "Azure Security Center",
+      "Azure Monitor",
+      "Azure Purview"
+    ],
+    "answer": "Azure Advisor"
+  },
+  {
+    "question": "¿Cuál de las siguientes opciones describe mejor el concepto de gobernanza en la nube de Azure?",
+    "options": [
+      "Implementar y administrar políticas de acceso y seguridad",
+      "Supervisar y analizar el rendimiento de las aplicaciones en tiempo real",
+      "Optimizar costos mediante la asignación de recursos",
+      "Automatizar la implementación de aplicaciones en la nube"
+    ],
+    "answer": "Implementar y administrar políticas de acceso y seguridad"
+  },
+  {
+    "question": "¿Qué servicio de Azure se utiliza para proteger las máquinas virtuales y las cargas de trabajo en la nube contra amenazas avanzadas?",
+    "options": [
+      "Azure Key Vault",
+      "Azure Security Center",
+      "Azure Purview",
+      "Azure Active Directory (Azure AD)"
+    ],
+    "answer": "Azure Security Center"
+  },
+  {
+    "question": "¿Cuál de las siguientes opciones describe mejor la función de Azure DNS?",
+    "options": [
+      "Proporcionar una base de datos de claves y secretos",
+      "Permitir la administración de identidades y accesos en Azure",
+      "Proporcionar servicios de registro de nombres de dominio",
+      "Analizar y visualizar datos para obtener insights"
+    ],
+    "answer": "Proporcionar servicios de registro de nombres de dominio"
+  },
+  {
+    "question": "¿Qué tipo de red en Azure permite a los usuarios conectar de manera segura sus redes locales con recursos de Azure a través de una conexión VPN o ExpressRoute?",
+    "options": [
+      "Azure Virtual Network",
+      "Azure VPN Gateway",
+      "Azure DNS",
+      "Azure Key Vault"
+    ],
+    "answer": "Azure VPN Gateway"
+  },
+  {
+    "question": "¿Qué servicio de Azure se utiliza para almacenar y analizar grandes volúmenes de datos de forma distribuida y escalable?",
+    "options": [
+      "Azure Blob Storage",
+      "Azure Cosmos DB",
+      "Azure Data Lake Storage",
+      "Azure SQL Database"
+    ],
+    "answer": "Azure Cosmos DB"
+  },
+  {
+    "question": "¿Cuál de las siguientes opciones describe mejor el propósito de Azure Arc?",
+    "options": [
+      "Orquestar la implementación de aplicaciones en contenedores",
+      "Extender la administración y los servicios de Azure a cualquier infraestructura",
+      "Proteger los datos en Azure mediante cifrado avanzado",
+      "Analizar el uso y rendimiento de los recursos de Azure"
+    ],
+    "answer": "Extender la administración y los servicios de Azure a cualquier infraestructura"
+  },
+  {
+    "question": "¿Qué herramienta de Azure se utiliza para supervisar el estado de los servicios de Azure, recibir notificaciones y ver el historial de incidentes?",
+    "options": [
+      "Azure Advisor",
+      "Azure Monitor",
+      "Azure Security Center",
+      "Azure Service Health"
+    ],
+    "answer": "Azure Service Health"
+  },
+  {
+    "question": "¿Cuál de las siguientes opciones describe mejor la función de Azure Data Factory?",
+    "options": [
+      "Analizar y visualizar datos para obtener insights",
+      "Integrar datos de varias fuentes en Azure para análisis y procesamiento",
+      "Gobernar y proteger datos en Azure",
+      "Migrar bases de datos y aplicaciones a la nube de Azure"
+    ],
+    "answer": "Integrar datos de varias fuentes en Azure para análisis y procesamiento"
+  },
+  {
+    "question": "¿Qué tipo de servicio en la nube permite a los usuarios ejecutar aplicaciones sin la necesidad de administrar la infraestructura subyacente?",
+    "options": [
+      "Infraestructura como servicio (IaaS)",
+      "Plataforma como servicio (PaaS)",
+      "Software como servicio (SaaS)",
+      "Servidor dedicado"
+    ],
+    "answer": "Plataforma como servicio (PaaS)"
+  },
+  {
+    "question": "¿Qué herramienta de Azure se utiliza para analizar y visualizar datos para obtener insights?",
+    "options": [
+      "Azure Monitor",
+      "Azure Advisor",
+      "Azure Purview",
+      "Azure Synapse Analytics"
+    ],
+    "answer": "Azure Synapse Analytics"
+  },
+  {
+    "question": "¿Cuál de las siguientes opciones describe mejor el propósito de Azure Blob Storage?",
+    "options": [
+      "Almacenar y analizar grandes volúmenes de datos de forma distribuida y escalable",
+      "Proporcionar almacenamiento persistente y replicado de archivos",
+      "Proteger las claves de cifrado y otros secretos de manera segura",
+      "Proporcionar servicios de registro de nombres de dominio"
+    ],
+    "answer": "Proporcionar almacenamiento persistente y replicado de archivos"
+  },
+  {
+    "question": "¿Qué servicio de Azure se utiliza para sincronizar identidades locales con Azure AD y permitir el inicio de sesión único (SSO) en aplicaciones en la nube?",
+    "options": [
+      "Azure AD B2C",
+      "Azure AD Domain Services",
+      "Azure AD Connect",
+      "Azure AD Multi-Factor Authentication"
+    ],
+    "answer": "Azure AD Connect"
+  },
+  {
+    "question": "¿Qué componente de Azure se utiliza para definir, implementar y gestionar recursos de Azure de manera repetible y escalable?",
+    "options": [
+      "Azure Resource Group",
+      "Azure Management Group",
+      "Azure Subscription",
+      "Azure Resource Manager (ARM)"
+    ],
+    "answer": "Azure Resource Manager (ARM)"
+  },
+  {
+    "question": "¿Qué tipo de servicio en la nube permite a los usuarios acceder a aplicaciones a través de internet sin necesidad de instalarlas ni mantenerlas?",
+    "options": [
+      "Infraestructura como servicio (IaaS)",
+      "Plataforma como servicio (PaaS)",
+      "Software como servicio (SaaS)",
+      "Servidor dedicado"
+    ],
+    "answer": "Software como servicio (SaaS)"
+  },
+  {
+    "question": "¿Qué herramienta de Azure se utiliza para administrar y proteger claves de cifrado y otros secretos de manera segura?",
+    "options": [
+      "Azure Security Center",
+      "Azure Key Vault",
+      "Azure Purview",
+      "Azure Active Directory (Azure AD)"
+    ],
+    "answer": "Azure Key Vault"
+  },
+  {
+    "question": "¿Cuál de las siguientes opciones describe mejor el propósito de Azure Active Directory (Azure AD)?",
+    "options": [
+      "Integrar datos de varias fuentes en Azure para análisis y procesamiento",
+      "Orquestar la implementación de aplicaciones en contenedores",
+      "Administrar identidades y accesos en la nube de Azure",
+      "Supervisar el estado de los servicios de Azure y recibir notificaciones"
+    ],
+    "answer": "Administrar identidades y accesos en la nube de Azure"
+  },
+  {
+    "question": "¿Qué servicio de Azure se utiliza para migrar cargas de trabajo a la nube de Azure y realizar la gestión y protección de las mismas?",
+    "options": [
+      "Azure Site Recovery",
+      "Azure Blob Storage",
+      "Azure Migrate",
+      "Azure Active Directory (Azure AD)"
+    ],
+    "answer": "Azure Migrate"
+  },
+  {
+    "question": "¿Cuál de las siguientes opciones describe mejor la función de Azure Policy?",
+    "options": [
+      "Integrar datos de varias fuentes en Azure para análisis y procesamiento",
+      "Implementar y administrar políticas de acceso y seguridad",
+      "Optimizar costos mediante la asignación de recursos",
+      "Supervisar el estado de los servicios de Azure y recibir notificaciones"
+    ],
+    "answer": "Implementar y administrar políticas de acceso y seguridad"
+  },
+  {
+    "question": "¿Qué componente de Azure se utiliza para administrar y organizar recursos relacionados para la facturación, seguridad y administración?",
+    "options": [
+      "Azure Resource Group",
+      "Azure Subscription",
+      "Azure Management Group",
+      "Azure Resource Manager (ARM)"
+    ],
+    "answer": "Azure Management Group"
+  },
+  {
+    "question": "¿Qué tipo de servicio en la nube permite a los usuarios ejecutar máquinas virtuales, sistemas operativos y aplicaciones sin necesidad de administrar la infraestructura subyacente?",
+    "options": [
+      "Infraestructura como servicio (IaaS)",
+      "Plataforma como servicio (PaaS)",
+      "Software como servicio (SaaS)",
+      "Servidor dedicado"
+    ],
+    "answer": "Plataforma como servicio (PaaS)"
+  },
+  {
+    "question": "¿Qué servicio de Azure se utiliza para implementar y administrar políticas de acceso y seguridad en la nube de Azure?",
+    "options": [
+      "Azure Active Directory (Azure AD)",
+      "Azure Key Vault",
+      "Azure Security Center",
+      "Azure Purview"
+    ],
+    "answer": "Azure Active Directory (Azure AD)"
+  },
+  {
+    "question": "¿Cuál de las siguientes opciones describe mejor el propósito de Azure Active Directory Domain Services?",
+    "options": [
+      "Integrar datos de varias fuentes en Azure para análisis y procesamiento",
+      "Administrar identidades y accesos en la nube de Azure",
+      "Proteger las claves de cifrado y otros secretos de manera segura",
+      "Sincronizar identidades locales con Azure AD y permitir SSO"
+    ],
+    "answer": "Administrar identidades y accesos en la nube de Azure"
+  },
+  {
+    "question": "¿Qué tipo de red en Azure permite a los usuarios aislar y proteger sus recursos de Azure mediante control sobre el tráfico de red?",
+    "options": [
+      "Azure Virtual Network",
+      "Azure VPN Gateway",
+      "Azure DNS",
+      "Azure Key Vault"
+    ],
+    "answer": "Azure Virtual Network"
+  },
+  {
+    "question": "¿Qué herramienta de Azure se utiliza para analizar y visualizar datos para obtener insights?",
+    "options": [
+      "Azure Monitor",
+      "Azure Advisor",
+      "Azure Purview",
+      "Azure Synapse Analytics"
+    ],
+    "answer": "Azure Synapse Analytics"
+  },
+  {
+    "question": "¿Cuál de las siguientes opciones describe mejor el propósito de Azure Blob Storage?",
+    "options": [
+      "Almacenar y analizar grandes volúmenes de datos de forma distribuida y escalable",
+      "Proporcionar almacenamiento persistente y replicado de archivos",
+      "Proteger las claves de cifrado y otros secretos de manera segura",
+      "Proporcionar servicios de registro de nombres de dominio"
+    ],
+    "answer": "Proporcionar almacenamiento persistente y replicado de archivos"
+  },
+  {
+    "question": "¿Qué servicio de Azure se utiliza para sincronizar identidades locales con Azure AD y permitir el inicio de sesión único (SSO) en aplicaciones en la nube?",
+    "options": [
+      "Azure AD B2C",
+      "Azure AD Domain Services",
+      "Azure AD Connect",
+      "Azure AD Multi-Factor Authentication"
+    ],
+    "answer": "Azure AD Connect"
+  },
+  {
+    "question": "¿Qué componente de Azure se utiliza para definir, implementar y gestionar recursos de Azure de manera repetible y escalable?",
+    "options": [
+      "Azure Resource Group",
+      "Azure Management Group",
+      "Azure Subscription",
+      "Azure Resource Manager (ARM)"
+    ],
+    "answer": "Azure Resource Manager (ARM)"
+  },
+  {
+    "question": "¿Qué tipo de servicio en la nube permite a los usuarios acceder a aplicaciones a través de internet sin necesidad de instalarlas ni mantenerlas?",
+    "options": [
+      "Infraestructura como servicio (IaaS)",
+      "Plataforma como servicio (PaaS)",
+      "Software como servicio (SaaS)",
+      "Servidor dedicado"
+    ],
+    "answer": "Software como servicio (SaaS)"
+  },
+  {
+    "question": "¿Qué herramienta de Azure se utiliza para administrar y proteger claves de cifrado y otros secretos de manera segura?",
+    "options": [
+      "Azure Security Center",
+      "Azure Key Vault",
+      "Azure Purview",
+      "Azure Active Directory (Azure AD)"
+    ],
+    "answer": "Azure Key Vault"
+  },
+  {
+    "question": "¿Cuál de las siguientes opciones describe mejor el propósito de Azure Active Directory (Azure AD)?",
+    "options": [
+      "Integrar datos de varias fuentes en Azure para análisis y procesamiento",
+      "Orquestar la implementación de aplicaciones en contenedores",
+      "Administrar identidades y accesos en la nube de Azure",
+      "Supervisar el estado de los servicios de Azure y recibir notificaciones"
+    ],
+    "answer": "Administrar identidades y accesos en la nube de Azure"
+  },
+  {
+    "question": "¿Qué servicio de Azure se utiliza para migrar cargas de trabajo a la nube de Azure y realizar la gestión y protección de las mismas?",
+    "options": [
+      "Azure Site Recovery",
+      "Azure Blob Storage",
+      "Azure Migrate",
+      "Azure Active Directory (Azure AD)"
+    ],
+    "answer": "Azure Migrate"
+  },
+  {
+    "question": "¿Cuál de las siguientes opciones describe mejor la función de Azure Policy?",
+    "options": [
+      "Integrar datos de varias fuentes en Azure para análisis y procesamiento",
+      "Implementar y administrar políticas de acceso y seguridad",
+      "Optimizar costos mediante la asignación de recursos",
+      "Supervisar el estado de los servicios de Azure y recibir notificaciones"
+    ],
+    "answer": "Implementar y administrar políticas de acceso y seguridad"
+  },
+  {
+    "question": "¿Qué componente de Azure se utiliza para administrar y organizar recursos relacionados para la facturación, seguridad y administración?",
+    "options": [
+      "Azure Resource Group",
+      "Azure Subscription",
+      "Azure Management Group",
+      "Azure Resource Manager (ARM)"
+    ],
+    "answer": "Azure Management Group"
+  },
+  {
+    "question": "¿Qué tipo de servicio en la nube permite a los usuarios ejecutar máquinas virtuales, sistemas operativos y aplicaciones sin necesidad de administrar la infraestructura subyacente?",
+    "options": [
+      "Infraestructura como servicio (IaaS)",
+      "Plataforma como servicio (PaaS)",
+      "Software como servicio (SaaS)",
+      "Servidor dedicado"
+    ],
+    "answer": "Infraestructura como servicio (IaaS)"
+  },
+  {
+    "question": "¿Qué servicio de Azure se utiliza para implementar y administrar políticas de acceso y seguridad en la nube de Azure?",
+    "options": [
+      "Azure Active Directory (Azure AD)",
+      "Azure Key Vault",
+      "Azure Security Center",
+      "Azure Purview"
+    ],
+    "answer": "Azure Active Directory (Azure AD)"
+  },
+  {
+    "question": "¿Cuál de las siguientes opciones describe mejor el propósito de Azure Active Directory Domain Services?",
+    "options": [
+      "Integrar datos de varias fuentes en Azure para análisis y procesamiento",
+      "Administrar identidades y accesos en la nube de Azure",
+      "Proteger las claves de cifrado y otros secretos de manera segura",
+      "Sincronizar identidades locales con Azure AD y permitir SSO"
+    ],
+    "answer": "Administrar identidades y accesos en la nube de Azure"
+  },
+  {
+    "question": "¿Qué tipo de red en Azure permite a los usuarios aislar y proteger sus recursos de Azure mediante control sobre el tráfico de red?",
+    "options": [
+      "Azure Virtual Network",
+      "Azure VPN Gateway",
+      "Azure DNS",
+      "Azure Key Vault"
+    ],
+    "answer": "Azure Virtual Network"
+  },
+  {
+    "question": "¿Cuál es la diferencia principal entre Azure SQL Database y Azure SQL Managed Instance?",
+    "options": [
+      "Azure SQL Database es un servicio PaaS, mientras que Azure SQL Managed Instance es un servicio IaaS.",
+      "Azure SQL Managed Instance proporciona una mayor compatibilidad con las características de SQL Server que Azure SQL Database.",
+      "Azure SQL Database permite la instalación de software de terceros, mientras que Azure SQL Managed Instance no.",
+      "Azure SQL Database ofrece alta disponibilidad de forma nativa, mientras que Azure SQL Managed Instance no."
+    ],
+    "answer": "Azure SQL Managed Instance proporciona una mayor compatibilidad con las características de SQL Server que Azure SQL Database."
+  },
+  {
+    "question": "¿Cuál es el propósito de los grupos de administración en Azure?",
+    "options": [
+      "Administrar y aplicar políticas a múltiples suscripciones de Azure.",
+      "Crear y gestionar recursos dentro de una suscripción de Azure.",
+      "Monitorizar el uso y los costos dentro de una suscripción de Azure.",
+      "Implementar aplicaciones en diferentes regiones de Azure."
+    ],
+    "answer": "Administrar y aplicar políticas a múltiples suscripciones de Azure."
+  },
+  {
+    "question": "¿Qué servicio de Azure proporciona la capacidad de implementar y gestionar máquinas virtuales en Azure?",
+    "options": [
+      "Azure App Service",
+      "Azure Virtual Machines",
+      "Azure Functions",
+      "Azure Kubernetes Service"
+    ],
+    "answer": "Azure Virtual Machines"
+  },
+  {
+    "question": "¿Cuál es una ventaja de utilizar Azure Reserved Instances?",
+    "options": [
+      "Flexibilidad para cambiar entre diferentes regiones de Azure.",
+      "Reducción de costos mediante el pago anticipado por capacidad reservada.",
+      "Escalado automático según la demanda del tráfico.",
+      "Implementación rápida de recursos en cualquier momento."
+    ],
+    "answer": "Reducción de costos mediante el pago anticipado por capacidad reservada."
+  },
+  {
+    "question": "¿Qué servicio de Azure facilita la migración de bases de datos a Azure?",
+    "options": [
+      "Azure Data Lake",
+      "Azure Data Factory",
+      "Azure Migrate",
+      "Azure Database Migration Service"
+    ],
+    "answer": "Azure Database Migration Service"
+  },
+  {
+    "question": "¿Qué herramienta de Azure se utiliza para gestionar la infraestructura en varias nubes y en entornos locales?",
+    "options": [
+      "Azure Policy",
+      "Azure Arc",
+      "Azure Blueprints",
+      "Azure Resource Manager"
+    ],
+    "answer": "Azure Arc"
+  },
+  {
+    "question": "¿Cuál es una característica clave de Azure Private Link?",
+    "options": [
+      "Proporcionar conectividad privada a los servicios de Azure a través de puntos de conexión públicos.",
+      "Permitir la conectividad segura a los servicios de Azure a través de la red privada de Azure.",
+      "Implementar políticas de seguridad en las redes virtuales de Azure.",
+      "Monitorizar y analizar el tráfico de red en Azure."
+    ],
+    "answer": "Permitir la conectividad segura a los servicios de Azure a través de la red privada de Azure."
+  },
+  {
+    "question": "¿Qué componente de Azure se utiliza para gestionar el acceso a las aplicaciones basadas en la nube y locales mediante políticas de control de acceso?",
+    "options": [
+      "Azure Firewall",
+      "Azure Active Directory",
+      "Azure Traffic Manager",
+      "Azure Load Balancer"
+    ],
+    "answer": "Azure Active Directory"
+  },
+  {
+    "question": "¿Cuál es el propósito principal de Azure Blueprints?",
+    "options": [
+      "Proporcionar plantillas para la implementación de aplicaciones en Azure.",
+      "Permitir la creación y gestión de políticas de seguridad en Azure.",
+      "Ayudar a las organizaciones a definir un conjunto repetible de recursos y políticas que cumplen con los requisitos de la organización.",
+      "Monitorizar el rendimiento de las aplicaciones en Azure."
+    ],
+    "answer": "Ayudar a las organizaciones a definir un conjunto repetible de recursos y políticas que cumplen con los requisitos de la organización."
+  },
+  {
+    "question": "¿Qué servicio de Azure permite la integración continua y la entrega continua (CI/CD) para el desarrollo de software?",
+    "options": [
+      "Azure DevOps",
+      "Azure Logic Apps",
+      "Azure Functions",
+      "Azure Container Instances"
+    ],
+    "answer": "Azure DevOps"
+  },
+  {
+    "question": "¿Qué servicio de Azure proporciona una plataforma para el análisis de big data y el procesamiento de datos a gran escala?",
+    "options": [
+      "Azure Stream Analytics",
+      "Azure Data Lake Analytics",
+      "Azure Synapse Analytics",
+      "Azure Machine Learning"
+    ],
+    "answer": "Azure Synapse Analytics"
+  },
+  {
+    "question": "¿Cuál es el propósito principal de Azure Traffic Manager?",
+    "options": [
+      "Monitorizar y gestionar el tráfico de red en las aplicaciones de Azure.",
+      "Distribuir el tráfico de red a varias ubicaciones geográficas para mejorar la disponibilidad y el rendimiento.",
+      "Proporcionar seguridad y protección contra amenazas para las aplicaciones de Azure.",
+      "Permitir la comunicación segura entre redes virtuales en Azure."
+    ],
+    "answer": "Distribuir el tráfico de red a varias ubicaciones geográficas para mejorar la disponibilidad y el rendimiento."
+  },
+  {
+    "question": "¿Qué característica de Azure permite la gestión y el monitoreo centralizado de las políticas de seguridad en todas las suscripciones de Azure?",
+    "options": [
+      "Azure Security Center",
+      "Azure Policy",
+      "Azure Sentinel",
+      "Azure Monitor"
+    ],
+    "answer": "Azure Policy"
+  },
+  {
+    "question": "¿Qué servicio de Azure permite la creación de chatbots inteligentes y personalizados?",
+    "options": [
+      "Azure Cognitive Services",
+      "Azure Bot Service",
+      "Azure Machine Learning",
+      "Azure Logic Apps"
+    ],
+    "answer": "Azure Bot Service"
+  },
+  {
+    "question": "¿Cuál es una característica de Azure Resource Manager (ARM)?",
+    "options": [
+      "Permite la creación de máquinas virtuales en Azure.",
+      "Proporciona una interfaz de línea de comandos para gestionar recursos en Azure.",
+      "Permite la implementación y gestión de recursos de Azure mediante plantillas JSON.",
+      "Proporciona servicios de almacenamiento escalables en Azure."
+    ],
+    "answer": "Permite la implementación y gestión de recursos de Azure mediante plantillas JSON."
+  },
+  {
+    "question": "¿Qué servicio de Azure proporciona protección contra ataques DDoS?",
+    "options": [
+      "Azure Firewall",
+      "Azure DDoS Protection",
+      "Azure Security Center",
+      "Azure Bastion"
+    ],
+    "answer": "Azure DDoS Protection"
+  },
+  {
+    "question": "¿Cuál es el propósito principal de Azure Site Recovery?",
+    "options": [
+      "Monitorizar el rendimiento de las aplicaciones en Azure.",
+      "Proporcionar alta disponibilidad para las aplicaciones críticas.",
+      "Ofrecer recuperación ante desastres mediante la replicación de máquinas virtuales y aplicaciones.",
+      "Implementar políticas de seguridad en las redes virtuales de Azure."
+    ],
+    "answer": "Ofrecer recuperación ante desastres mediante la replicación de máquinas virtuales y aplicaciones."
+  },
+  {
+    "question": "¿Qué característica de Azure permite la implementación de aplicaciones web sin gestionar la infraestructura subyacente?",
+    "options": [
+      "Azure Kubernetes Service",
+      "Azure App Service",
+      "Azure Functions",
+      "Azure Logic Apps"
+    ],
+    "answer": "Azure App Service"
+  },
+  {
+    "question": "¿Cuál es el propósito de Azure ExpressRoute?",
+    "options": [
+      "Proporcionar conectividad privada y de alta velocidad entre la infraestructura local y Azure.",
+      "Implementar políticas de seguridad en las redes virtuales de Azure.",
+      "Monitorizar el tráfico de red en las aplicaciones de Azure.",
+      "Proporcionar almacenamiento escalable y redundante en Azure."
+    ],
+    "answer": "Proporcionar conectividad privada y de alta velocidad entre la infraestructura local y Azure."
+  },
+  {
+    "question": "¿Qué servicio de Azure permite la creación y gestión de redes virtuales?",
+    "options": [
+      "Azure DNS",
+      "Azure Virtual Network",
+      "Azure Traffic Manager",
+      "Azure Load Balancer"
+    ],
+    "answer": "Azure Virtual Network"
+  },
+  {
+    "question": "¿Cuál es la función principal de Azure Logic Apps?",
+    "options": [
+      "Crear y gestionar máquinas virtuales en Azure.",
+      "Proporcionar una plataforma para el análisis de big data.",
+      "Permitir la automatización de flujos de trabajo y la integración de aplicaciones y servicios.",
+      "Proporcionar servicios de inteligencia artificial y machine learning."
+    ],
+    "answer": "Permitir la automatización de flujos de trabajo y la integración de aplicaciones y servicios."
+  },
+  {
+    "question": "¿Qué servicio de Azure se utiliza para gestionar y proteger las claves y otros secretos utilizados por aplicaciones y servicios en Azure?",
+    "options": [
+      "Azure Security Center",
+      "Azure Key Vault",
+      "Azure Policy",
+      "Azure Sentinel"
+    ],
+    "answer": "Azure Key Vault"
+  },
+  {
+    "question": "¿Cuál es el propósito principal de Azure Cost Management?",
+    "options": [
+      "Proporcionar conectividad segura a los servicios de Azure.",
+      "Monitorizar el rendimiento de las aplicaciones en Azure.",
+      "Analizar y optimizar los costos asociados con el uso de los servicios de Azure.",
+      "Implementar políticas de seguridad en las redes virtuales de Azure."
+    ],
+    "answer": "Analizar y optimizar los costos asociados con el uso de los servicios de Azure."
+  },
+  {
+    "question": "¿Qué característica de Azure permite la autenticación sin contraseña?",
+    "options": [
+      "Azure Active Directory",
+      "Azure Multi-Factor Authentication",
+      "Azure Key Vault",
+      "Azure Policy"
+    ],
+    "answer": "Azure Active Directory"
+  },
+  {
+    "question": "¿Cuál es la función principal de Azure Sentinel?",
+    "options": [
+      "Proporcionar conectividad privada y de alta velocidad entre la infraestructura local y Azure.",
+      "Monitorizar el tráfico de red en las aplicaciones de Azure.",
+      "Proporcionar un servicio de SIEM (gestión de eventos e información de seguridad) y SOAR (orquestación, automatización y respuesta de seguridad).",
+      "Proporcionar alta disponibilidad para las aplicaciones críticas."
+    ],
+    "answer": "Proporcionar un servicio de SIEM (gestión de eventos e información de seguridad) y SOAR (orquestación, automatización y respuesta de seguridad)."
+  },
+  {
+    "question": "¿Qué servicio de Azure facilita la creación, entrenamiento y despliegue de modelos de machine learning?",
+    "options": [
+      "Azure Cognitive Services",
+      "Azure Machine Learning",
+      "Azure Synapse Analytics",
+      "Azure Data Factory"
+    ],
+    "answer": "Azure Machine Learning"
+  },
+  {
+    "question": "¿Cuál es la función principal de Azure Bastion?",
+    "options": [
+      "Proporcionar conectividad segura a las máquinas virtuales de Azure a través del portal de Azure.",
+      "Monitorizar el rendimiento de las aplicaciones en Azure.",
+      "Proporcionar almacenamiento escalable y redundante en Azure.",
+      "Implementar políticas de seguridad en las redes virtuales de Azure."
+    ],
+    "answer": "Proporcionar conectividad segura a las máquinas virtuales de Azure a través del portal de Azure."
+  },
+  {
+    "question": "¿Qué servicio de Azure se utiliza para la gestión de identidades y el acceso a los recursos?",
+    "options": [
+      "Azure Policy",
+      "Azure Active Directory",
+      "Azure Sentinel",
+      "Azure Key Vault"
+    ],
+    "answer": "Azure Active Directory"
+  },
+  {
+    "question": "¿Cuál es el propósito principal de Azure Load Balancer?",
+    "options": [
+      "Monitorizar el rendimiento de las aplicaciones en Azure.",
+      "Proporcionar equilibrio de carga para distribuir el tráfico de red a varias instancias de aplicación.",
+      "Implementar políticas de seguridad en las redes virtuales de Azure.",
+      "Proporcionar almacenamiento escalable y redundante en Azure."
+    ],
+    "answer": "Proporcionar equilibrio de carga para distribuir el tráfico de red a varias instancias de aplicación."
+  },
+  {
+    "question": "¿Qué herramienta de Azure permite la implementación y gestión de recursos mediante scripts?",
+    "options": [
+      "Azure DevOps",
+      "Azure CLI",
+      "Azure Monitor",
+      "Azure Security Center"
+    ],
+    "answer": "Azure CLI"
+  },
+  {
+    "question": "¿Cuál es una característica clave de Azure Virtual WAN?",
+    "options": [
+      "Proporcionar conectividad segura a las máquinas virtuales de Azure a través del portal de Azure.",
+      "Permitir la automatización de flujos de trabajo y la integración de aplicaciones y servicios.",
+      "Proporcionar una arquitectura de red global unificada y optimizada para la conectividad de sucursales y usuarios remotos.",
+      "Monitorizar el rendimiento de las aplicaciones en Azure."
+    ],
+    "answer": "Proporcionar una arquitectura de red global unificada y optimizada para la conectividad de sucursales y usuarios remotos."
+  },
+  {
+    "question": "¿Qué servicio de Azure permite la gestión centralizada de políticas de seguridad y cumplimiento en múltiples suscripciones?",
+    "options": [
+      "Azure Security Center",
+      "Azure Policy",
+      "Azure Monitor",
+      "Azure Sentinel"
+    ],
+    "answer": "Azure Policy"
+  },
+  {
+    "question": "¿Qué servicio de Azure se utiliza para el análisis de flujos de datos en tiempo real?",
+    "options": [
+      "Azure Data Factory",
+      "Azure Synapse Analytics",
+      "Azure Stream Analytics",
+      "Azure Logic Apps"
+    ],
+    "answer": "Azure Stream Analytics"
+  },
+  {
+    "question": "¿Cuál es el propósito de Azure Data Lake Storage?",
+    "options": [
+      "Proporcionar almacenamiento escalable y redundante para bases de datos SQL.",
+      "Ofrecer almacenamiento de objetos para datos no estructurados.",
+      "Proporcionar una solución de almacenamiento optimizada para análisis de big data.",
+      "Permitir la gestión y el monitoreo de políticas de seguridad en todas las suscripciones de Azure."
+    ],
+    "answer": "Proporcionar una solución de almacenamiento optimizada para análisis de big data."
+  },
+  {
+    "question": "¿Qué servicio de Azure se utiliza para la creación y gestión de redes privadas virtuales (VPN)?",
+    "options": [
+      "Azure Virtual Network",
+      "Azure VPN Gateway",
+      "Azure Traffic Manager",
+      "Azure ExpressRoute"
+    ],
+    "answer": "Azure VPN Gateway"
+  },
+  {
+    "question": "¿Cuál es una característica clave de Azure Functions?",
+    "options": [
+      "Permitir la ejecución de código sin gestionar la infraestructura subyacente.",
+      "Proporcionar una plataforma para el análisis de big data.",
+      "Ofrecer una solución de almacenamiento optimizada para datos no estructurados.",
+      "Permitir la creación y gestión de máquinas virtuales en Azure."
+    ],
+    "answer": "Permitir la ejecución de código sin gestionar la infraestructura subyacente."
+  },
+  {
+    "question": "¿Qué servicio de Azure permite la integración de aplicaciones mediante flujos de trabajo automatizados?",
+    "options": [
+      "Azure Functions",
+      "Azure Logic Apps",
+      "Azure Kubernetes Service",
+      "Azure DevOps"
+    ],
+    "answer": "Azure Logic Apps"
+  },
+  {
+    "question": "¿Cuál es la función principal de Azure Firewall?",
+    "options": [
+      "Proporcionar almacenamiento escalable y redundante en Azure.",
+      "Proteger las aplicaciones de Azure contra amenazas de seguridad.",
+      "Monitorizar el rendimiento de las aplicaciones en Azure.",
+      "Permitir la automatización de flujos de trabajo y la integración de aplicaciones y servicios."
+    ],
+    "answer": "Proteger las aplicaciones de Azure contra amenazas de seguridad."
+  },
+  {
+    "question": "¿Qué herramienta de Azure se utiliza para estimar los costos de los servicios de Azure?",
+    "options": [
+      "Azure Monitor",
+      "Azure Pricing Calculator",
+      "Azure Advisor",
+      "Azure Cost Management"
+    ],
+    "answer": "Azure Pricing Calculator"
+  },
+  {
+    "question": "¿Cuál es el propósito de Azure AD B2C?",
+    "options": [
+      "Proporcionar almacenamiento escalable y redundante en Azure.",
+      "Permitir la gestión de identidades y el acceso para aplicaciones de cliente a cliente (C2C).",
+      "Ofrecer una plataforma para el análisis de big data.",
+      "Permitir la gestión de identidades y el acceso para aplicaciones de negocio a cliente (B2C)."
+    ],
+    "answer": "Permitir la gestión de identidades y el acceso para aplicaciones de negocio a cliente (B2C)."
+  },
+  {
+    "question": "¿Qué servicio de Azure permite la implementación de contenedores en un entorno orquestado?",
+    "options": [
+      "Azure Functions",
+      "Azure Kubernetes Service",
+      "Azure Virtual Machines",
+      "Azure Logic Apps"
+    ],
+    "answer": "Azure Kubernetes Service"
+  },
+  {
+    "question": "¿Cuál es el propósito principal de Azure Purview?",
+    "options": [
+      "Proporcionar almacenamiento escalable y redundante en Azure.",
+      "Permitir la automatización de flujos de trabajo y la integración de aplicaciones y servicios.",
+      "Ofrecer una solución de gobernanza de datos unificada para gestionar y catalogar datos en toda la organización.",
+      "Monitorizar el rendimiento de las aplicaciones en Azure."
+    ],
+    "answer": "Ofrecer una solución de gobernanza de datos unificada para gestionar y catalogar datos en toda la organización."
+  },
+  {
+    "question": "¿Qué característica de Azure permite la implementación de aplicaciones sin gestionar servidores?",
+    "options": [
+      "Azure Virtual Machines",
+      "Azure Functions",
+      "Azure App Service",
+      "Azure Kubernetes Service"
+    ],
+    "answer": "Azure Functions"
+  },
+  {
+    "question": "¿Qué servicio de Azure proporciona una plataforma para el desarrollo, la prueba y la implementación de aplicaciones mediante contenedores?",
+    "options": [
+      "Azure Virtual Machines",
+      "Azure Kubernetes Service",
+      "Azure DevTest Labs",
+      "Azure Logic Apps"
+    ],
+    "answer": "Azure Kubernetes Service"
+  },
+  {
+    "question": "¿Cuál es la función principal de Azure DevTest Labs?",
+    "options": [
+      "Proporcionar un entorno para la gestión de identidades y el acceso a los recursos.",
+      "Ofrecer un entorno para el desarrollo, la prueba y la implementación de aplicaciones.",
+      "Permitir la creación y gestión de redes privadas virtuales (VPN).",
+      "Monitorizar el rendimiento de las aplicaciones en Azure."
+    ],
+    "answer": "Ofrecer un entorno para el desarrollo, la prueba y la implementación de aplicaciones."
+  },
+  {
+    "question": "¿Qué servicio de Azure permite la gestión de dispositivos IoT a gran escala?",
+    "options": [
+      "Azure Machine Learning",
+      "Azure IoT Hub",
+      "Azure Synapse Analytics",
+      "Azure Logic Apps"
+    ],
+    "answer": "Azure IoT Hub"
+  },
+  {
+    "question": "¿Cuál es el propósito principal de Azure API Management?",
+    "options": [
+      "Proporcionar almacenamiento escalable y redundante en Azure.",
+      "Permitir la automatización de flujos de trabajo y la integración de aplicaciones y servicios.",
+      "Proporcionar una plataforma para crear, gestionar y securizar API.",
+      "Monitorizar el rendimiento de las aplicaciones en Azure."
+    ],
+    "answer": "Proporcionar una plataforma para crear, gestionar y securizar API."
+  },
+  {
+    "question": "¿Qué servicio de Azure se utiliza para la gestión centralizada de políticas de seguridad y cumplimiento en múltiples suscripciones?",
+    "options": [
+      "Azure Security Center",
+      "Azure Policy",
+      "Azure Monitor",
+      "Azure Sentinel"
+    ],
+    "answer": "Azure Policy"
+  },
+  {
+    "question": "¿Qué modelo de nube permite a una organización tener control total sobre sus recursos y datos, generalmente con una mayor seguridad y privacidad?",
+    "options": [
+      "Nube pública",
+      "Nube privada",
+      "Nube híbrida",
+      "Nube comunitaria"
+    ],
+    "answer": "Nube privada"
+  },
+  {
+    "question": "¿Cuál de las siguientes opciones describe mejor la informática sin servidor en Azure?",
+    "options": [
+      "Administrar directamente los servidores virtuales subyacentes",
+      "Pagar solo por el tiempo de ejecución del código",
+      "Utilizar máquinas virtuales para ejecutar código",
+      "Ejecutar aplicaciones en entornos aislados"
+    ],
+    "answer": "Pagar solo por el tiempo de ejecución del código"
+  },
+  {
+    "question": "¿Qué tipo de servicio en la nube proporciona una plataforma completa para desarrollar, ejecutar y administrar aplicaciones sin preocuparse por la infraestructura subyacente?",
+    "options": [
+      "Infraestructura como servicio (IaaS)",
+      "Plataforma como servicio (PaaS)",
+      "Software como servicio (SaaS)",
+      "Servidor dedicado"
+    ],
+    "answer": "Plataforma como servicio (PaaS)"
+  },
+  {
+    "question": "¿Cuál de las siguientes opciones describe mejor el concepto de alta disponibilidad en la nube?",
+    "options": [
+      "Garantizar que los recursos estén disponibles en todo momento",
+      "Mover aplicaciones entre diferentes regiones",
+      "Asegurar la protección contra accesos no autorizados",
+      "Redundancia de datos para recuperación ante desastres"
+    ],
+    "answer": "Garantizar que los recursos estén disponibles en todo momento"
+  },
+  {
+    "question": "¿Qué herramienta de Azure se utiliza para supervisar, diagnosticar y comprender mejor el rendimiento de las aplicaciones y servicios?",
+    "options": [
+      "Azure Policy",
+      "Azure Monitor",
+      "Azure Purview",
+      "Azure Security Center"
+    ],
+    "answer": "Azure Monitor"
+  },
+  {
+    "question": "¿Qué servicio de Azure se utiliza para proteger las identidades y gestionar el acceso de los usuarios a aplicaciones y recursos?",
+    "options": [
+      "Azure Active Directory (Azure AD)",
+      "Azure Security Center",
+      "Azure Key Vault",
+      "Azure Purview"
+    ],
+    "answer": "Azure Active Directory (Azure AD)"
+  },
+  {
+    "question": "¿Qué componente de Azure se utiliza para agrupar recursos relacionados, como máquinas virtuales, redes y bases de datos?",
+    "options": [
+      "Azure Subscription",
+      "Azure Resource Group",
+      "Azure Management Group",
+      "Azure Service Health"
+    ],
+    "answer": "Azure Resource Group"
+  },
+  {
+    "question": "¿Cuál de las siguientes opciones describe mejor la función de Azure Kubernetes Service (AKS)?",
+    "options": [
+      "Servicio para crear redes virtuales en Azure",
+      "Orquestador de contenedores que simplifica la implementación y administración de aplicaciones en contenedores",
+      "Herramienta para supervisar la configuración de recursos en Azure",
+      "Servicio de almacenamiento de archivos en la nube de Azure"
+    ],
+    "answer": "Orquestador de contenedores que simplifica la implementación y administración de aplicaciones en contenedores"
+  },
+  {
+    "question": "¿Qué servicio de Azure se utiliza para migrar cargas de trabajo locales a la nube de Azure?",
+    "options": [
+      "Azure Site Recovery",
+      "Azure Active Directory (Azure AD)",
+      "Azure Blob Storage",
+      "Azure Purview"
+    ],
+    "answer": "Azure Site Recovery"
+  },
+  {
+    "question": "¿Cuál es la principal diferencia entre Azure Virtual Machines (VM) y Azure App Service?",
+    "options": [
+      "VM proporciona acceso directo al sistema operativo subyacente, mientras que App Service no",
+      "App Service permite ejecutar cualquier tipo de aplicación, mientras que VM solo soporta aplicaciones web",
+      "VM es más económico que App Service para ejecutar aplicaciones web",
+      "App Service ofrece mayor escalabilidad que VM"
+    ],
+    "answer": "VM proporciona acceso directo al sistema operativo subyacente, mientras que App Service no"
+  },
+  {
+    "question": "¿Qué tipo de red en Azure proporciona una conexión privada entre los recursos de Azure y los recursos locales, utilizando una conexión dedicada o privada a través de internet?",
+    "options": [
+      "Azure Virtual Network",
+      "Azure VPN Gateway",
+      "Azure ExpressRoute",
+      "Azure DNS"
+    ],
+    "answer": "Azure ExpressRoute"
+  },
+  {
+    "question": "¿Qué herramienta de Azure se utiliza para implementar, administrar y monitorear recursos de Azure utilizando scripts?",
+    "options": [
+      "Azure Portal",
+      "Azure Cloud Shell",
+      "Azure Resource Manager (ARM)",
+      "Azure Advisor"
+    ],
+    "answer": "Azure Cloud Shell"
+  },
+  {
+    "question": "¿Qué modelo de implementación de la nube proporciona una mezcla de nubes públicas y privadas, permitiendo compartir datos y aplicaciones entre ellas?",
+    "options": [
+      "Nube pública",
+      "Nube privada",
+      "Nube híbrida",
+      "Nube comunitaria"
+    ],
+    "answer": "Nube híbrida"
+  },
+  {
+    "question": "¿Cuál de los siguientes servicios de Azure proporciona almacenamiento en la nube escalable y duradero para datos no estructurados?",
+    "options": [
+      "Azure Blob Storage",
+      "Azure SQL Database",
+      "Azure Cosmos DB",
+      "Azure Data Lake Storage"
+    ],
+    "answer": "Azure Blob Storage"
+  },
+  {
+    "question": "¿Qué servicio de Azure se utiliza para proteger las claves de cifrado y otros secretos de manera segura?",
+    "options": [
+      "Azure Security Center",
+      "Azure Active Directory (Azure AD)",
+      "Azure Key Vault",
+      "Azure Purview"
+    ],
+    "answer": "Azure Key Vault"
+  },
+  {
+    "question": "¿Qué tipo de servicio en la nube permite a los usuarios acceder a aplicaciones basadas en la web sin necesidad de instalarlas ni mantenerlas localmente?",
+    "options": [
+      "Infraestructura como servicio (IaaS)",
+      "Plataforma como servicio (PaaS)",
+      "Software como servicio (SaaS)",
+      "Servidor dedicado"
+    ],
+    "answer": "Software como servicio (SaaS)"
+  },
+  {
+    "question": "¿Qué herramienta de Azure se utiliza para crear, asignar y hacer cumplir políticas en toda la organización?",
+    "options": [
+      "Azure Policy",
+      "Azure Monitor",
+      "Azure Advisor",
+      "Azure Purview"
+    ],
+    "answer": "Azure Policy"
+  },
+  {
+    "question": "¿Cuál de los siguientes es un componente fundamental de Azure que representa una colección de recursos agrupados?",
+    "options": [
+      "Azure Directory",
+      "Azure Management Group",
+      "Azure Resource Group",
+      "Azure Subscription"
+    ],
+    "answer": "Azure Resource Group"
+  },
+  {
+    "question": "¿Qué servicio de Azure se utiliza para administrar y proteger la configuración de red en Azure?",
+    "options": [
+      "Azure Site Recovery",
+      "Azure Virtual Network",
+      "Azure ExpressRoute",
+      "Azure Security Center"
+    ],
+    "answer": "Azure Virtual Network"
+  },
+  {
+    "question": "¿Cuál de las siguientes opciones describe mejor el propósito de Azure Purview?",
+    "options": [
+      "Analizar y visualizar datos para obtener insights",
+      "Gestionar y asegurar claves y secretos",
+      "Gobernar y proteger datos en Azure",
+      "Monitorear y mejorar la eficiencia operativa"
+    ],
+    "answer": "Gobernar y proteger datos en Azure"
+  },
+  {
+    "question": "¿Qué servicio de Azure se utiliza para migrar bases de datos y aplicaciones locales a la nube de Azure?",
+    "options": [
+      "Azure Migrate",
+      "Azure Key Vault",
+      "Azure Active Directory (Azure AD)",
+      "Azure Blob Storage"
+    ],
+    "answer": "Azure Migrate"
+  },
+  {
+    "question": "¿Cuál de las siguientes opciones describe mejor la funcionalidad de Azure Advisor?",
+    "options": [
+      "Proporciona recomendaciones para mejorar la seguridad de los recursos de Azure",
+      "Ofrece consejos para optimizar los costos y mejorar el rendimiento de los recursos de Azure",
+      "Monitorea el estado de los servicios en tiempo real y envía alertas",
+      "Ayuda a diseñar arquitecturas de red escalables en Azure"
+    ],
+    "answer": "Ofrece consejos para optimizar los costos y mejorar el rendimiento de los recursos de Azure"
+  },
+  {
+    "question": "¿Qué tipo de servicio en la nube proporciona una infraestructura virtualizada a través de internet, donde los usuarios pueden implementar y administrar sistemas operativos y aplicaciones?",
+    "options": [
+      "Infraestructura como servicio (IaaS)",
+      "Plataforma como servicio (PaaS)",
+      "Software como servicio (SaaS)",
+      "Servidor dedicado"
+    ],
+    "answer": "Infraestructura como servicio (IaaS)"
+  },
+  {
+    "question": "¿Qué herramienta de Azure se utiliza para monitorear y mejorar la eficiencia operativa de los recursos de Azure?",
+    "options": [
+      "Azure Advisor",
+      "Azure Security Center",
+      "Azure Monitor",
+      "Azure Purview"
+    ],
+    "answer": "Azure Advisor"
+  },
+  {
+    "question": "¿Cuál de las siguientes opciones describe mejor el concepto de gobernanza en la nube de Azure?",
+    "options": [
+      "Implementar y administrar políticas de acceso y seguridad",
+      "Supervisar y analizar el rendimiento de las aplicaciones en tiempo real",
+      "Optimizar costos mediante la asignación de recursos",
+      "Automatizar la implementación de aplicaciones en la nube"
+    ],
+    "answer": "Implementar y administrar políticas de acceso y seguridad"
+  },
+  {
+    "question": "¿Qué servicio de Azure se utiliza para proteger las máquinas virtuales y las cargas de trabajo en la nube contra amenazas avanzadas?",
+    "options": [
+      "Azure Key Vault",
+      "Azure Security Center",
+      "Azure Purview",
+      "Azure Active Directory (Azure AD)"
+    ],
+    "answer": "Azure Security Center"
+  },
+  {
+    "question": "¿Cuál de las siguientes opciones describe mejor la función de Azure DNS?",
+    "options": [
+      "Proporcionar una base de datos de claves y secretos",
+      "Permitir la administración de identidades y accesos en Azure",
+      "Proporcionar servicios de registro de nombres de dominio",
+      "Analizar y visualizar datos para obtener insights"
+    ],
+    "answer": "Proporcionar servicios de registro de nombres de dominio"
+  },
+  {
+    "question": "¿Qué tipo de red en Azure permite a los usuarios conectar de manera segura sus redes locales con recursos de Azure a través de una conexión VPN o ExpressRoute?",
+    "options": [
+      "Azure Virtual Network",
+      "Azure VPN Gateway",
+      "Azure DNS",
+      "Azure Key Vault"
+    ],
+    "answer": "Azure VPN Gateway"
+  },
+  {
+    "question": "¿Qué servicio de Azure se utiliza para almacenar y analizar grandes volúmenes de datos de forma distribuida y escalable?",
+    "options": [
+      "Azure Blob Storage",
+      "Azure Cosmos DB",
+      "Azure Data Lake Storage",
+      "Azure SQL Database"
+    ],
+    "answer": "Azure Cosmos DB"
+  },
+  {
+    "question": "¿Cuál de las siguientes opciones describe mejor el propósito de Azure Arc?",
+    "options": [
+      "Orquestar la implementación de aplicaciones en contenedores",
+      "Extender la administración y los servicios de Azure a cualquier infraestructura",
+      "Proteger los datos en Azure mediante cifrado avanzado",
+      "Analizar el uso y rendimiento de los recursos de Azure"
+    ],
+    "answer": "Extender la administración y los servicios de Azure a cualquier infraestructura"
+  },
+  {
+    "question": "¿Qué herramienta de Azure se utiliza para supervisar el estado de los servicios de Azure, recibir notificaciones y ver el historial de incidentes?",
+    "options": [
+      "Azure Advisor",
+      "Azure Monitor",
+      "Azure Security Center",
+      "Azure Service Health"
+    ],
+    "answer": "Azure Service Health"
+  },
+  {
+    "question": "¿Cuál de las siguientes opciones describe mejor la función de Azure Data Factory?",
+    "options": [
+      "Analizar y visualizar datos para obtener insights",
+      "Integrar datos de varias fuentes en Azure para análisis y procesamiento",
+      "Gobernar y proteger datos en Azure",
+      "Migrar bases de datos y aplicaciones a la nube de Azure"
+    ],
+    "answer": "Integrar datos de varias fuentes en Azure para análisis y procesamiento"
+  },
+  {
+    "question": "¿Qué tipo de servicio en la nube permite a los usuarios ejecutar aplicaciones sin la necesidad de administrar la infraestructura subyacente?",
+    "options": [
+      "Infraestructura como servicio (IaaS)",
+      "Plataforma como servicio (PaaS)",
+      "Software como servicio (SaaS)",
+      "Servidor dedicado"
+    ],
+    "answer": "Plataforma como servicio (PaaS)"
+  },
+  {
+    "question": "¿Qué herramienta de Azure se utiliza para analizar y visualizar datos para obtener insights?",
+    "options": [
+      "Azure Monitor",
+      "Azure Advisor",
+      "Azure Purview",
+      "Azure Synapse Analytics"
+    ],
+    "answer": "Azure Synapse Analytics"
+  },
+  {
+    "question": "¿Cuál de las siguientes opciones describe mejor el propósito de Azure Blob Storage?",
+    "options": [
+      "Almacenar y analizar grandes volúmenes de datos de forma distribuida y escalable",
+      "Proporcionar almacenamiento persistente y replicado de archivos",
+      "Proteger las claves de cifrado y otros secretos de manera segura",
+      "Proporcionar servicios de registro de nombres de dominio"
+    ],
+    "answer": "Proporcionar almacenamiento persistente y replicado de archivos"
+  },
+  {
+    "question": "¿Qué servicio de Azure se utiliza para sincronizar identidades locales con Azure AD y permitir el inicio de sesión único (SSO) en aplicaciones en la nube?",
+    "options": [
+      "Azure AD B2C",
+      "Azure AD Domain Services",
+      "Azure AD Connect",
+      "Azure AD Multi-Factor Authentication"
+    ],
+    "answer": "Azure AD Connect"
+  },
+  {
+    "question": "¿Qué componente de Azure se utiliza para definir, implementar y gestionar recursos de Azure de manera repetible y escalable?",
+    "options": [
+      "Azure Resource Group",
+      "Azure Management Group",
+      "Azure Subscription",
+      "Azure Resource Manager (ARM)"
+    ],
+    "answer": "Azure Resource Manager (ARM)"
+  },
+  {
+    "question": "¿Qué tipo de servicio en la nube permite a los usuarios acceder a aplicaciones a través de internet sin necesidad de instalarlas ni mantenerlas?",
+    "options": [
+      "Infraestructura como servicio (IaaS)",
+      "Plataforma como servicio (PaaS)",
+      "Software como servicio (SaaS)",
+      "Servidor dedicado"
+    ],
+    "answer": "Software como servicio (SaaS)"
+  },
+  {
+    "question": "¿Qué herramienta de Azure se utiliza para administrar y proteger claves de cifrado y otros secretos de manera segura?",
+    "options": [
+      "Azure Security Center",
+      "Azure Key Vault",
+      "Azure Purview",
+      "Azure Active Directory (Azure AD)"
+    ],
+    "answer": "Azure Key Vault"
+  },
+  {
+    "question": "¿Cuál de las siguientes opciones describe mejor el propósito de Azure Active Directory (Azure AD)?",
+    "options": [
+      "Integrar datos de varias fuentes en Azure para análisis y procesamiento",
+      "Orquestar la implementación de aplicaciones en contenedores",
+      "Administrar identidades y accesos en la nube de Azure",
+      "Supervisar el estado de los servicios de Azure y recibir notificaciones"
+    ],
+    "answer": "Administrar identidades y accesos en la nube de Azure"
+  },
+  {
+    "question": "¿Qué servicio de Azure se utiliza para migrar cargas de trabajo a la nube de Azure y realizar la gestión y protección de las mismas?",
+    "options": [
+      "Azure Site Recovery",
+      "Azure Blob Storage",
+      "Azure Migrate",
+      "Azure Active Directory (Azure AD)"
+    ],
+    "answer": "Azure Migrate"
+  },
+  {
+    "question": "¿Cuál de las siguientes opciones describe mejor la función de Azure Policy?",
+    "options": [
+      "Integrar datos de varias fuentes en Azure para análisis y procesamiento",
+      "Implementar y administrar políticas de acceso y seguridad",
+      "Optimizar costos mediante la asignación de recursos",
+      "Supervisar el estado de los servicios de Azure y recibir notificaciones"
+    ],
+    "answer": "Implementar y administrar políticas de acceso y seguridad"
+  },
+  {
+    "question": "¿Qué componente de Azure se utiliza para administrar y organizar recursos relacionados para la facturación, seguridad y administración?",
+    "options": [
+      "Azure Resource Group",
+      "Azure Subscription",
+      "Azure Management Group",
+      "Azure Resource Manager (ARM)"
+    ],
+    "answer": "Azure Management Group"
+  },
+  {
+    "question": "¿Qué tipo de servicio en la nube permite a los usuarios ejecutar máquinas virtuales, sistemas operativos y aplicaciones sin necesidad de administrar la infraestructura subyacente?",
+    "options": [
+      "Infraestructura como servicio (IaaS)",
+      "Plataforma como servicio (PaaS)",
+      "Software como servicio (SaaS)",
+      "Servidor dedicado"
+    ],
+    "answer": "Infraestructura como servicio (IaaS)"
+  },
+  {
+    "question": "¿Qué servicio de Azure se utiliza para implementar y administrar políticas de acceso y seguridad en la nube de Azure?",
+    "options": [
+      "Azure Active Directory (Azure AD)",
+      "Azure Key Vault",
+      "Azure Security Center",
+      "Azure Purview"
+    ],
+    "answer": "Azure Active Directory (Azure AD)"
+  },
+  {
+    "question": "¿Cuál de las siguientes opciones describe mejor el propósito de Azure Active Directory Domain Services?",
+    "options": [
+      "Integrar datos de varias fuentes en Azure para análisis y procesamiento",
+      "Administrar identidades y accesos en la nube de Azure",
+      "Proteger las claves de cifrado y otros secretos de manera segura",
+      "Sincronizar identidades locales con Azure AD y permitir SSO"
+    ],
+    "answer": "Administrar identidades y accesos en la nube de Azure"
+  },
+  {
+    "question": "¿Qué tipo de red en Azure permite a los usuarios aislar y proteger sus recursos de Azure mediante control sobre el tráfico de red?",
+    "options": [
+      "Azure Virtual Network",
+      "Azure VPN Gateway",
+      "Azure DNS",
+      "Azure Key Vault"
+    ],
+    "answer": "Azure Virtual Network"
+  },
+  {
+    "question": "¿Qué herramienta de Azure se utiliza para analizar y visualizar datos para obtener insights?",
+    "options": [
+      "Azure Monitor",
+      "Azure Advisor",
+      "Azure Purview",
+      "Azure Synapse Analytics"
+    ],
+    "answer": "Azure Synapse Analytics"
+  },
+  {
+    "question": "¿Cuál de las siguientes opciones describe mejor el propósito de Azure Blob Storage?",
+    "options": [
+      "Almacenar y analizar grandes volúmenes de datos de forma distribuida y escalable",
+      "Proporcionar almacenamiento persistente y replicado de archivos",
+      "Proteger las claves de cifrado y otros secretos de manera segura",
+      "Proporcionar servicios de registro de nombres de dominio"
+    ],
+    "answer": "Proporcionar almacenamiento persistente y replicado de archivos"
+  },
+  {
+    "question": "¿Qué servicio de Azure se utiliza para sincronizar identidades locales con Azure AD y permitir el inicio de sesión único (SSO) en aplicaciones en la nube?",
+    "options": [
+      "Azure AD B2C",
+      "Azure AD Domain Services",
+      "Azure AD Connect",
+      "Azure AD Multi-Factor Authentication"
+    ],
+    "answer": "Azure AD Connect"
+  },
+  {
+    "question": "¿Qué componente de Azure se utiliza para definir, implementar y gestionar recursos de Azure de manera repetible y escalable?",
+    "options": [
+      "Azure Resource Group",
+      "Azure Management Group",
+      "Azure Subscription",
+      "Azure Resource Manager (ARM)"
+    ],
+    "answer": "Azure Resource Manager (ARM)"
+  },
+  {
+    "question": "¿Qué tipo de servicio en la nube permite a los usuarios acceder a aplicaciones a través de internet sin necesidad de instalarlas ni mantenerlas?",
+    "options": [
+      "Infraestructura como servicio (IaaS)",
+      "Plataforma como servicio (PaaS)",
+      "Software como servicio (SaaS)",
+      "Servidor dedicado"
+    ],
+    "answer": "Software como servicio (SaaS)"
+  },
+  {
+    "question": "¿Qué herramienta de Azure se utiliza para administrar y proteger claves de cifrado y otros secretos de manera segura?",
+    "options": [
+      "Azure Security Center",
+      "Azure Key Vault",
+      "Azure Purview",
+      "Azure Active Directory (Azure AD)"
+    ],
+    "answer": "Azure Key Vault"
+  },
+  {
+    "question": "¿Cuál de las siguientes opciones describe mejor el propósito de Azure Active Directory (Azure AD)?",
+    "options": [
+      "Integrar datos de varias fuentes en Azure para análisis y procesamiento",
+      "Orquestar la implementación de aplicaciones en contenedores",
+      "Administrar identidades y accesos en la nube de Azure",
+      "Supervisar el estado de los servicios de Azure y recibir notificaciones"
+    ],
+    "answer": "Administrar identidades y accesos en la nube de Azure"
+  },
+  {
+    "question": "¿Qué servicio de Azure se utiliza para migrar cargas de trabajo a la nube de Azure y realizar la gestión y protección de las mismas?",
+    "options": [
+      "Azure Site Recovery",
+      "Azure Blob Storage",
+      "Azure Migrate",
+      "Azure Active Directory (Azure AD)"
+    ],
+    "answer": "Azure Migrate"
+  },
+  {
+    "question": "¿Cuál de las siguientes opciones describe mejor la función de Azure Policy?",
+    "options": [
+      "Integrar datos de varias fuentes en Azure para análisis y procesamiento",
+      "Implementar y administrar políticas de acceso y seguridad",
+      "Optimizar costos mediante la asignación de recursos",
+      "Supervisar el estado de los servicios de Azure y recibir notificaciones"
+    ],
+    "answer": "Implementar y administrar políticas de acceso y seguridad"
+  },
+  {
+    "question": "¿Qué componente de Azure se utiliza para administrar y organizar recursos relacionados para la facturación, seguridad y administración?",
+    "options": [
+      "Azure Resource Group",
+      "Azure Subscription",
+      "Azure Management Group",
+      "Azure Resource Manager (ARM)"
+    ],
+    "answer": "Azure Management Group"
+  },
+  {
+    "question": "¿Qué tipo de servicio en la nube permite a los usuarios ejecutar máquinas virtuales, sistemas operativos y aplicaciones sin necesidad de administrar la infraestructura subyacente?",
+    "options": [
+      "Infraestructura como servicio (IaaS)",
+      "Plataforma como servicio (PaaS)",
+      "Software como servicio (SaaS)",
+      "Servidor dedicado"
+    ],
+    "answer": "Infraestructura como servicio (IaaS)"
+  },
+  {
+    "question": "¿Qué servicio de Azure se utiliza para implementar y administrar políticas de acceso y seguridad en la nube de Azure?",
+    "options": [
+      "Azure Active Directory (Azure AD)",
+      "Azure Key Vault",
+      "Azure Security Center",
+      "Azure Purview"
+    ],
+    "answer": "Azure Active Directory (Azure AD)"
+  },
+  {
+    "question": "¿Cuál de las siguientes opciones describe mejor el propósito de Azure Active Directory Domain Services?",
+    "options": [
+      "Integrar datos de varias fuentes en Azure para análisis y procesamiento",
+      "Administrar identidades y accesos en la nube de Azure",
+      "Proteger las claves de cifrado y otros secretos de manera segura",
+      "Sincronizar identidades locales con Azure AD y permitir SSO"
+    ],
+    "answer": "Administrar identidades y accesos en la nube de Azure"
+  },
+  {
+    "question": "¿Qué tipo de red en Azure permite a los usuarios aislar y proteger sus recursos de Azure mediante control sobre el tráfico de red?",
+    "options": [
+      "Azure Virtual Network",
+      "Azure VPN Gateway",
+      "Azure DNS",
+      "Azure Key Vault"
+    ],
+    "answer": "Azure Virtual Network"
+  }
+]

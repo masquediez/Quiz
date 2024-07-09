@@ -1,0 +1,15 @@
+{
+  "elegirCantidadPreguntas": "Elegir cantidad de preguntas ",
+  "puntuacion": "Puntuación",
+  "porcentajeAciertos": "Porcentaje de aciertos: ",
+  "respuestaCorrecta": "¡Respuesta correcta!",
+  "respuestaIncorrecta": "Respuesta incorrecta",
+  "tiempoRestante": "Tiempo restante",
+  "reiniciarQuiz": "Reiniciar Quiz",
+  "iniciarQuiz": "Iniciar Quiz",
+  "verificarRespuesta": "Verificar Respuesta",
+  "siguientePregunta": "Siguiente Pregunta",
+  "pregunta": "pregunta:",
+  "de": " de",
+  "porcentajeAciertosActual": "Porcentaje de aciertos actual: "
+}

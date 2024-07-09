@@ -1,0 +1,1519 @@
+[
+  {
+    "question": "Welche der folgenden Aussagen beschreibt am besten eine Azure-Region?",
+    "options": [
+      "A - Ein physischer Standort mit mehreren Rechenzentren.",
+      "B - Ein einzelnes Rechenzentrum.",
+      "C - Eine Sicherheitsgruppe in Azure.",
+      "D - Ein Virtuelles Netzwerk."
+    ],
+    "answer": "A - Ein physischer Standort mit mehreren Rechenzentren."
+  },
+  {
+    "question": "Welche Azure-Region wird verwendet, um die Datenspeicherung und Compliance-Anforderungen bestimmter Länder oder Regionen zu erfüllen?",
+    "options": [
+      "A - Verfügbarkeitszone",
+      "B - Geografie",
+      "C - Resource Group",
+      "D - Subnetz"
+    ],
+    "answer": "B - Geografie"
+  },
+  {
+    "question": "Welche der folgenden Aussagen ist korrekt in Bezug auf Azure Availability Zones?",
+    "options": [
+      "A - Sie sind separate geografische Regionen.",
+      "B - Sie bieten zusätzlichen Schutz gegen Rechenzentrumsausfälle.",
+      "C - Sie sind nur in bestimmten Azure-Regionen verfügbar.",
+      "D - Sowohl B als auch C."
+    ],
+    "answer": "D - Sowohl B als auch C."
+  },
+  {
+    "question": "Welches der folgenden Modelle beschreibt Cloud-Dienste, bei denen die gesamte Infrastruktur von einem Drittanbieter bereitgestellt und verwaltet wird?",
+    "options": [
+      "A - On-Premises",
+      "B - Infrastructure as a Service (IaaS)",
+      "C - Platform as a Service (PaaS)",
+      "D - Software as a Service (SaaS)"
+    ],
+    "answer": "D - Software as a Service (SaaS)"
+  },
+  {
+    "question": "Welche der folgenden Vorteile bietet die Nutzung von Cloud-Diensten?",
+    "options": [
+      "A - Kapitalaufwand wird zu Betriebskosten.",
+      "B - Erhöhte Skalierbarkeit.",
+      "C - Pay-as-you-go-Preismodell.",
+      "D - Alle oben genannten."
+    ],
+    "answer": "D - Alle oben genannten."
+  },
+  {
+    "question": "Was ist eine wesentliche Eigenschaft des Cloud-Computings, die eine dynamische Ressourcenbereitstellung und -verwaltung ermöglicht?",
+    "options": [
+      "A - Hochverfügbarkeit",
+      "B - Elastizität",
+      "C - Globaler Fußabdruck",
+      "D - Netzwerksicherheit"
+    ],
+    "answer": "B - Elastizität"
+  },
+  {
+    "question": "Welche der folgenden Aussagen beschreibt Azure Functions am besten?",
+    "options": [
+      "A - Ein Dienst, um virtuelle Maschinen zu verwalten.",
+      "B - Ein serverloser Compute-Dienst zur Ausführung von Ereignis-getriebenem Code.",
+      "C - Eine SQL-Datenbankverwaltung.",
+      "D - Ein Tool zur Verwaltung von Netzwerksicherheitsgruppen."
+    ],
+    "answer": "B - Ein serverloser Compute-Dienst zur Ausführung von Ereignis-getriebenem Code."
+  },
+  {
+    "question": "Was ist eine typische Verwendung für Azure Functions?",
+    "options": [
+      "A - Lang laufende Berechnungen durchführen.",
+      "B - Webseiten hosten.",
+      "C - E-Mail-Benachrichtigungen basierend auf Ereignissen senden.",
+      "D - Daten in einer relationalen Datenbank speichern."
+    ],
+    "answer": "C - E-Mail-Benachrichtigungen basierend auf Ereignissen senden."
+  },
+  {
+    "question": "Welche der folgenden Sprachen wird von Azure Functions nicht unterstützt?",
+    "options": ["A - C#", "B - Python", "C - JavaScript", "D - COBOL"],
+    "answer": "D - COBOL"
+  },
+  {
+    "question": "Was ist der primäre Zweck einer Azure Virtual Machine (VM)?",
+    "options": [
+      "A - Eine serverlose Architektur bereitzustellen.",
+      "B - Virtuelle Netzwerke zu erstellen.",
+      "C - Rechenleistung für Anwendungen bereitzustellen.",
+      "D - Daten in einer strukturierten Form zu speichern."
+    ],
+    "answer": "C - Rechenleistung für Anwendungen bereitzustellen."
+  },
+
+  {
+    "question": "Welche der folgenden Aussagen ist korrekt in Bezug auf das Hochskalieren einer Azure VM?",
+    "options": [
+      "A - Es erhöht die Anzahl der VMs.",
+      "B - Es erhöht die Kapazität der vorhandenen VM durch Hinzufügen von mehr Ressourcen.",
+      "C - Es reduziert die Anzahl der VMs.",
+      "D - Es verringert die Kapazität der vorhandenen VM."
+    ],
+    "answer": "B - Es erhöht die Kapazität der vorhandenen VM durch Hinzufügen von mehr Ressourcen."
+  },
+  {
+    "question": "Was ist der Hauptzweck einer Resource Group in Azure?",
+    "options": [
+      "A - Eine Methode zur Verwaltung von Abrechnung.",
+      "B - Eine logische Container zur Verwaltung und Organisation von Azure-Ressourcen.",
+      "C - Ein physisches Rechenzentrum.",
+      "D - Ein Sicherheitsprotokoll."
+    ],
+    "answer": "B - Eine logische Container zur Verwaltung und Organisation von Azure-Ressourcen."
+  },
+  {
+    "question": "Welche der folgenden Optionen beschreibt eine Azure Role-Based Access Control (RBAC)?",
+    "options": [
+      "A - Eine Methode zur Kontrolle von Netzwerkzugriffen.",
+      "B - Ein System zur Verwaltung von Benutzerberechtigungen.",
+      "C - Ein Datenbankverwaltungswerkzeug.",
+      "D - Ein Speicherprotokoll."
+    ],
+    "answer": "B - Ein System zur Verwaltung von Benutzerberechtigungen."
+  },
+  {
+    "question": "Welche Azure-Dienstleistung ermöglicht die Überwachung und Verwaltung von Ressourcen, Anwendungen und Diensten?",
+    "options": [
+      "A - Azure DevOps",
+      "B - Azure Monitor",
+      "C - Azure SQL Database",
+      "D - Azure Functions"
+    ],
+    "answer": "B - Azure Monitor"
+  },
+
+  {
+    "question": "Was ist Cloud Computing?",
+    "options": [
+      "Ein Modell zur Bereitstellung von IT-Diensten über das Internet",
+      "Ein Modell zur Bereitstellung von IT-Diensten lokal",
+      "Ein Modell zur Bereitstellung von IT-Diensten über Satellit",
+      "Ein Modell zur Bereitstellung von IT-Diensten über Telefonleitung"
+    ],
+    "answer": "Ein Modell zur Bereitstellung von IT-Diensten über das Internet"
+  },
+  {
+    "question": "Was ist das Shared Responsibility Model in der Cloud?",
+    "options": [
+      "Ein Modell, bei dem der Kunde und der Cloud-Anbieter die Sicherheitsverantwortung teilen",
+      "Ein Modell, bei dem nur der Cloud-Anbieter für die Sicherheit verantwortlich ist",
+      "Ein Modell, bei dem nur der Kunde für die Sicherheit verantwortlich ist",
+      "Ein Modell, bei dem die Sicherheitsverantwortung unklar ist"
+    ],
+    "answer": "Ein Modell, bei dem der Kunde und der Cloud-Anbieter die Sicherheitsverantwortung teilen"
+  },
+  {
+    "question": "Welches der folgenden ist KEIN Cloud-Modell?",
+    "options": ["Public Cloud", "Private Cloud", "Hybrid Cloud", "Lokal Cloud"],
+    "answer": "Lokal Cloud"
+  },
+  {
+    "question": "Was ist der Hauptvorteil eines Public Cloud Modells?",
+    "options": [
+      "Volle Kontrolle über die Infrastruktur",
+      "Höhere Betriebskosten",
+      "Exklusiver Zugang zu Ressourcen",
+      "Skalierbarkeit und Flexibilität"
+    ],
+    "answer": "Skalierbarkeit und Flexibilität"
+  },
+  {
+    "question": "Was beschreibt am besten das IaaS (Infrastructure-as-a-Service) Modell?",
+    "options": [
+      "Eine Plattform zum Entwickeln und Verwalten von Anwendungen",
+      "Bereitstellung von Software über das Internet",
+      "Bereitstellung von grundlegender IT-Infrastruktur wie Servern und Speicher",
+      "Bereitstellung von Sicherheitsdiensten"
+    ],
+    "answer": "Bereitstellung von grundlegender IT-Infrastruktur wie Servern und Speicher"
+  },
+  {
+    "question": "Welcher Azure-Dienst ermöglicht das Ausführen von Code ohne die explizite Verwaltung der zugrunde liegenden Infrastruktur?",
+    "options": [
+      "Azure Virtual Machines",
+      "Azure App Service",
+      "Azure Functions",
+      "Azure Storage"
+    ],
+    "answer": "Azure Functions"
+  },
+  {
+    "question": "Was ist Azure App Service?",
+    "options": [
+      "Ein Dienst, der die Erstellung und das Hosting von Webanwendungen ohne Verwaltung der zugrunde liegenden Infrastruktur ermöglicht",
+      "Ein Cloud-Speicherdienst",
+      "Eine virtuelle Maschine in Azure",
+      "Eine Datenbank in der Cloud"
+    ],
+    "answer": "Ein Dienst, der die Erstellung und das Hosting von Webanwendungen ohne Verwaltung der zugrunde liegenden Infrastruktur ermöglicht"
+  },
+  {
+    "question": "Was ist eine Azure Virtual Machine?",
+    "options": [
+      "Ein Anwendungscontainer",
+      "Eine physische Maschine",
+      "Eine virtuelle Maschine in der Cloud, die vollständige Kontrolle über das Betriebssystem bietet",
+      "Ein Datenbankdienst"
+    ],
+    "answer": "Eine virtuelle Maschine in der Cloud, die vollständige Kontrolle über das Betriebssystem bietet"
+  },
+  {
+    "question": "Welcher Azure-Dienst bietet eine Laufzeitumgebung für serverlose Anwendungen?",
+    "options": [
+      "Azure Virtual Machines",
+      "Azure App Service",
+      "Azure Functions",
+      "Azure Kubernetes Service"
+    ],
+    "answer": "Azure Functions"
+  },
+  {
+    "question": "Was ist das SaaS (Software-as-a-Service) Modell?",
+    "options": [
+      "Bereitstellung von grundlegender IT-Infrastruktur",
+      "Eine Plattform zum Entwickeln und Verwalten von Anwendungen",
+      "Bereitstellung von Software über das Internet",
+      "Bereitstellung von Sicherheitsdiensten"
+    ],
+    "answer": "Bereitstellung von Software über das Internet"
+  },
+  {
+    "question": "Was ist der Zweck von Azure Regions?",
+    "options": [
+      "Hosting von virtuellen Maschinen lokal",
+      "Bereitstellung von geografischer Redundanz und Verfügbarkeit",
+      "Speichern von Daten auf physischen Festplatten",
+      "Verwalten von Sicherheitsrichtlinien"
+    ],
+    "answer": "Bereitstellung von geografischer Redundanz und Verfügbarkeit"
+  },
+  {
+    "question": "Was ist eine Azure Resource Group?",
+    "options": [
+      "Eine Gruppe von virtuellen Maschinen",
+      "Ein Container, der verwandte Ressourcen für eine Azure-Lösung umfasst",
+      "Ein Datenbankdienst",
+      "Ein Cloud-Speicherdienst"
+    ],
+    "answer": "Ein Container, der verwandte Ressourcen für eine Azure-Lösung umfasst"
+  },
+  {
+    "question": "Was ist eine Azure Availability Zone?",
+    "options": [
+      "Eine spezifische geografische Region in Azure",
+      "Eine Gruppe von physischen Standorten innerhalb einer Azure-Region",
+      "Eine Art von virtueller Maschine",
+      "Ein Datenbankdienst"
+    ],
+    "answer": "Eine Gruppe von physischen Standorten innerhalb einer Azure-Region"
+  },
+  {
+    "question": "Welches Tool ermöglicht das Verwalten und Überwachen von Azure-Ressourcen über die Befehlszeile?",
+    "options": [
+      "Azure Portal",
+      "Azure CLI",
+      "Azure Functions",
+      "Azure App Service"
+    ],
+    "answer": "Azure CLI"
+  },
+  {
+    "question": "Welcher Azure-Dienst bietet Sicherheit und Compliance auf Ressourcenebene?",
+    "options": [
+      "Azure Policy",
+      "Azure App Service",
+      "Azure Virtual Machines",
+      "Azure Functions"
+    ],
+    "answer": "Azure Policy"
+  },
+  {
+    "question": "Was beschreibt am besten den Azure Storage-Dienst?",
+    "options": [
+      "Ein Dienst für virtuelle Maschinen",
+      "Ein Datenbankdienst",
+      "Ein Dienst, der skalierbaren Cloud-Speicher bereitstellt",
+      "Ein Containerdienst"
+    ],
+    "answer": "Ein Dienst, der skalierbaren Cloud-Speicher bereitstellt"
+  },
+  {
+    "question": "Welches Authentifizierungsverfahren in Azure ermöglicht den Zugang ohne Passwort?",
+    "options": [
+      "Multi-Factor Authentication (MFA)",
+      "Single Sign-On (SSO)",
+      "Passwordless Authentication",
+      "Azure AD Domain Services"
+    ],
+    "answer": "Passwordless Authentication"
+  },
+  {
+    "question": "Welcher Azure-Dienst ermöglicht die Nutzung von virtuellen Desktops?",
+    "options": [
+      "Azure Virtual Machines",
+      "Azure Virtual Desktop",
+      "Azure App Service",
+      "Azure Functions"
+    ],
+    "answer": "Azure Virtual Desktop"
+  },
+  {
+    "question": "Welches Azure-Tool hilft bei der Berechnung der Kosten für verschiedene Dienste?",
+    "options": [
+      "Azure Policy",
+      "Azure Pricing Calculator",
+      "Azure Monitor",
+      "Azure Resource Manager"
+    ],
+    "answer": "Azure Pricing Calculator"
+  },
+  {
+    "question": "Welcher Azure-Dienst ermöglicht den physischen Transfer großer Datenmengen zu Azure?",
+    "options": ["Azure Migrate", "Azure Data Box", "Azure File Sync", "AzCopy"],
+    "answer": "Azure Data Box"
+  },
+  {
+    "question": "Welches Azure-Tool bietet Empfehlungen zur Optimierung von Ressourcen?",
+    "options": [
+      "Azure Monitor",
+      "Azure Advisor",
+      "Azure Policy",
+      "Azure Resource Manager"
+    ],
+    "answer": "Azure Advisor"
+  },
+  {
+    "question": "Welcher Azure-Dienst ermöglicht die Erstellung und Verwaltung von Containern?",
+    "options": [
+      "Azure Virtual Machines",
+      "Azure Kubernetes Service (AKS)",
+      "Azure App Service",
+      "Azure Functions"
+    ],
+    "answer": "Azure Kubernetes Service (AKS)"
+  },
+  {
+    "question": "Was beschreibt am besten das Konzept 'Zero Trust' in der Sicherheit?",
+    "options": [
+      "Standardmäßiges Vertrauen in alle Benutzer",
+      "Kein Vertrauen in niemanden innerhalb und außerhalb des Netzwerks",
+      "Vertrauen nur in externe Benutzer",
+      "Standardmäßiges Vertrauen in alle Geräte"
+    ],
+    "answer": "Kein Vertrauen in niemanden innerhalb und außerhalb des Netzwerks"
+  },
+  {
+    "question": "Welcher Azure-Dienst wird zur Überwachung und Diagnose von Problemen in Anwendungen und Diensten verwendet?",
+    "options": [
+      "Azure Policy",
+      "Azure Monitor",
+      "Azure Resource Manager",
+      "Azure App Service"
+    ],
+    "answer": "Azure Monitor"
+  },
+  {
+    "question": "Welches Azure-Tool ermöglicht die Verwaltung von Richtlinien und Compliance?",
+    "options": [
+      "Azure CLI",
+      "Azure Advisor",
+      "Azure Policy",
+      "Azure Resource Manager"
+    ],
+    "answer": "Azure Policy"
+  },
+  {
+    "question": "Welcher Azure-Dienst ermöglicht Single Sign-On (SSO)?",
+    "options": [
+      "Azure Virtual Machines",
+      "Azure Active Directory (Azure AD)",
+      "Azure App Service",
+      "Azure Storage"
+    ],
+    "answer": "Azure Active Directory (Azure AD)"
+  },
+  {
+    "question": "Was beschreibt am besten die Redundanz in Azure?",
+    "options": [
+      "Speicherung von Daten auf einem einzigen Server",
+      "Speicherung von Daten an mehreren Standorten innerhalb einer Region",
+      "Keine Datensicherungen",
+      "Speicherung von Daten an mehreren geografischen Standorten"
+    ],
+    "answer": "Speicherung von Daten an mehreren geografischen Standorten"
+  },
+  {
+    "question": "Was ist Azure SQL Database?",
+    "options": [
+      "Eine virtuelle Maschine in Azure",
+      "Ein relationaler Datenbankdienst in der Cloud",
+      "Ein Speicherdienst",
+      "Ein Containerdienst"
+    ],
+    "answer": "Ein relationaler Datenbankdienst in der Cloud"
+  },
+  {
+    "question": "Was beschreibt am besten den Begriff 'High Availability' in Azure?",
+    "options": [
+      "Sicherstellung der Verfügbarkeit der Dienste zu 50% der Zeit",
+      "Sicherstellung der Verfügbarkeit der Dienste zu 100% der Zeit",
+      "Sicherstellung der Verfügbarkeit der Dienste die meiste Zeit",
+      "Keine Verfügbarkeitsgarantie für Dienste"
+    ],
+    "answer": "Sicherstellung der Verfügbarkeit der Dienste die meiste Zeit"
+  },
+  {
+    "question": "Welcher Azure-Dienst wird zur Verwaltung von Schlüsseln und Geheimnissen verwendet?",
+    "options": [
+      "Azure Storage",
+      "Azure Key Vault",
+      "Azure SQL Database",
+      "Azure App Service"
+    ],
+    "answer": "Azure Key Vault"
+  },
+  {
+    "question": "Was ist ein SLA (Service Level Agreement) in Azure?",
+    "options": [
+      "Eine Vereinbarung zwischen Azure und dem Kunden über garantierte Dienstleistungs- und Verfügbarkeitsniveaus",
+      "Eine Preisvereinbarung",
+      "Ein Sicherheitsvertrag",
+      "Eine Supportvereinbarung"
+    ],
+    "answer": "Eine Vereinbarung zwischen Azure und dem Kunden über garantierte Dienstleistungs- und Verfügbarkeitsniveaus"
+  },
+  {
+    "question": "Welcher Azure-Dienst ermöglicht die Analyse und Visualisierung von Daten in Echtzeit?",
+    "options": [
+      "Azure Functions",
+      "Azure Monitor",
+      "Azure Stream Analytics",
+      "Azure DevOps"
+    ],
+    "answer": "Azure Stream Analytics"
+  },
+  {
+    "question": "Was ist Azure DevOps?",
+    "options": [
+      "Eine virtuelle Maschine in Azure",
+      "Ein Dienst zur Verwaltung und Automatisierung der Softwareentwicklung",
+      "Ein Speicherdienst",
+      "Ein Datenbankdienst"
+    ],
+    "answer": "Ein Dienst zur Verwaltung und Automatisierung der Softwareentwicklung"
+  },
+  {
+    "question": "Was ist eine Azure Resource Manager (ARM) Vorlage?",
+    "options": [
+      "Eine Vorlage zur Erstellung und Verwaltung von Azure-Ressourcen auf wiederholbare und konsistente Weise",
+      "Ein Cloud-Speicherdienst",
+      "Ein Datenbankdienst",
+      "Eine virtuelle Maschine in Azure"
+    ],
+    "answer": "Eine Vorlage zur Erstellung und Verwaltung von Azure-Ressourcen auf wiederholbare und konsistente Weise"
+  },
+  {
+    "question": "Was ist ein Azure Virtual Network (VNet)?",
+    "options": [
+      "Ein Datenbankdienst",
+      "Ein isoliertes logisches Netzwerk in Azure",
+      "Ein Speicherdienst",
+      "Ein Containerdienst"
+    ],
+    "answer": "Ein isoliertes logisches Netzwerk in Azure"
+  },
+  {
+    "question": "Was beschreibt am besten den Begriff 'Disaster Recovery' in Azure?",
+    "options": [
+      "Bereitstellung von virtuellen Maschinen",
+      "Datensicherung und -wiederherstellung im Falle einer Katastrophe",
+      "Identitäts- und Zugriffsmanagement",
+      "Erstellung von Webanwendungen"
+    ],
+    "answer": "Datensicherung und -wiederherstellung im Falle einer Katastrophe"
+  },
+  {
+    "question": "Welcher Azure-Dienst bietet eine Umgebung, um Anwendungen schnell zu entwickeln, zu testen und bereitzustellen?",
+    "options": [
+      "Azure Virtual Machines",
+      "Azure App Service",
+      "Azure Storage",
+      "Azure Key Vault"
+    ],
+    "answer": "Azure App Service"
+  },
+  {
+    "question": "Welcher Azure-Dienst ermöglicht die Integration von Drittanbieter-Services und -Anwendungen?",
+    "options": [
+      "Azure Logic Apps",
+      "Azure Virtual Machines",
+      "Azure Storage",
+      "Azure Key Vault"
+    ],
+    "answer": "Azure Logic Apps"
+  },
+  {
+    "question": "Was beschreibt am besten den Azure Traffic Manager Dienst?",
+    "options": [
+      "Ein Speicher Dienst",
+      "Ein Datenbank Dienst",
+      "Ein DNS-basierter Load Balancer, der den Traffic auf Azure-Dienste verteilt",
+      "Ein Container Dienst"
+    ],
+    "answer": "Ein DNS-basierter Load Balancer, der den Traffic auf Azure-Dienste verteilt"
+  },
+  {
+    "question": "Was ist Azure Active Directory (Azure AD)?",
+    "options": [
+      "Ein Datenbank Dienst",
+      "Ein Cloud-basierter Identitäts- und Zugriffsverwaltungsdienst",
+      "Ein Speicher Dienst",
+      "Eine virtuelle Maschine in Azure"
+    ],
+    "answer": "Ein Cloud-basierter Identitäts- und Zugriffsverwaltungsdienst"
+  },
+  {
+    "question": "Welcher Azure-Dienst ermöglicht das automatische Skalieren von Ressourcen?",
+    "options": [
+      "Azure Virtual Machines",
+      "Azure App Service",
+      "Azure Monitor",
+      "Azure Resource Manager"
+    ],
+    "answer": "Azure App Service"
+  },
+  {
+    "question": "Was beschreibt am besten den Begriff 'Data Residency' in Azure?",
+    "options": [
+      "Die Fähigkeit, von überall auf Daten zuzugreifen",
+      "Der physische Standort, an dem Daten gespeichert sind",
+      "Die Verfügbarkeit von Daten",
+      "Die Datensicherung"
+    ],
+    "answer": "Der physische Standort, an dem Daten gespeichert sind"
+  },
+  {
+    "question": "Was ist ein Azure Availability Set?",
+    "options": [
+      "Eine Gruppe von Speicher Diensten",
+      "Eine Gruppe von virtuellen Maschinen, die Verfügbarkeit bei geplanten oder ungeplanten Ausfällen gewährleistet",
+      "Eine Gruppe von Sicherheitsrichtlinien",
+      "Eine Gruppe von Datenbanken"
+    ],
+    "answer": "Eine Gruppe von virtuellen Maschinen, die Verfügbarkeit bei geplanten oder ungeplanten Ausfällen gewährleistet"
+  },
+  {
+    "question": "Welcher Azure-Dienst wird zur Orchestrierung von Containern verwendet?",
+    "options": [
+      "Azure Virtual Machines",
+      "Azure Kubernetes Service (AKS)",
+      "Azure App Service",
+      "Azure Storage"
+    ],
+    "answer": "Azure Kubernetes Service (AKS)"
+  },
+  {
+    "question": "Welches Azure-Tool ermöglicht die Bereitstellung von Infrastruktur als Code?",
+    "options": [
+      "Azure CLI",
+      "Azure Resource Manager",
+      "Azure App Service",
+      "Azure Policy"
+    ],
+    "answer": "Azure Resource Manager"
+  },
+  {
+    "question": "Was ist Azure Sentinel?",
+    "options": [
+      "Ein Dienst zur Anwendungsüberwachung",
+      "Ein Container Orchestrierungsdienst",
+      "Ein Dienst zur Sicherheitsverwaltung und -analyse",
+      "Ein Datenbank Dienst"
+    ],
+    "answer": "Ein Dienst zur Sicherheitsverwaltung und -analyse"
+  },
+  {
+    "question": "Was beschreibt am besten das Konzept der 'Elastizität' in der Cloud?",
+    "options": [
+      "Die Fähigkeit, Ressourcen nach Bedarf nach oben oder unten zu skalieren",
+      "Die Fähigkeit, Daten unbegrenzt zu speichern",
+      "Die Fähigkeit, schnell auf Daten zuzugreifen",
+      "Die Fähigkeit, Daten effektiv zu sichern"
+    ],
+    "answer": "Die Fähigkeit, Ressourcen nach Bedarf nach oben oder unten zu skalieren"
+  },
+  {
+    "question": "Was ist Azure Kubernetes Service (AKS)?",
+    "options": [
+      "Ein Cloud-Speicherdienst",
+      "Ein Datenbankdienst",
+      "Ein Container-Orchestrierungsdienst",
+      "Ein Netzwerkdienst"
+    ],
+    "answer": "Ein Container-Orchestrierungsdienst"
+  },
+  {
+    "question": "Was ist Azure DevTest Labs?",
+    "options": [
+      "Ein Dienst zur Verwaltung und Automatisierung der Entwicklungs- und Testinfrastruktur",
+      "Ein Speicherdienst",
+      "Ein Analysedienst",
+      "Ein Überwachungsdienst"
+    ],
+    "answer": "Ein Dienst zur Verwaltung und Automatisierung der Entwicklungs- und Testinfrastruktur"
+  },
+  {
+    "question": "Was ist Azure Resource Manager (ARM)?",
+    "options": [
+      "Ein Datenbankdienst",
+      "Ein Speicherdienst",
+      "Die Verwaltungsoberfläche für Ressourcen in Azure",
+      "Ein Netzwerkdienst"
+    ],
+    "answer": "Die Verwaltungsoberfläche für Ressourcen in Azure"
+  },
+  {
+    "question": "Was ist der Zweck von Azure Blueprints?",
+    "options": [
+      "Ressourcen individuell erstellen und verwalten",
+      "Ermöglicht die Erstellung von virtuellen Netzwerken",
+      "Definiert eine wiederholbare Menge von Ressourcen für Bereitstellungen",
+      "Bietet Speicherdienste"
+    ],
+    "answer": "Definiert eine wiederholbare Menge von Ressourcen für Bereitstellungen"
+  },
+  {
+    "question": "Was ist Azure Policy?",
+    "options": [
+      "Ein Speicherdienst",
+      "Ein Dienst zur Verwaltung und Durchsetzung von Governance-Richtlinien",
+      "Ein Datenbankdienst",
+      "Ein Netzwerkdienst"
+    ],
+    "answer": "Ein Dienst zur Verwaltung und Durchsetzung von Governance-Richtlinien"
+  },
+  {
+    "question": "Was ist Azure Sentinel?",
+    "options": [
+      "Ein Cloud-Sicherheitsanalysetool",
+      "Ein Datenbankdienst",
+      "Ein Speicherdienst",
+      "Ein Netzwerkdienst"
+    ],
+    "answer": "Ein Cloud-Sicherheitsanalysetool"
+  },
+  {
+    "question": "Was ist Azure Synapse Analytics?",
+    "options": [
+      "Ein relationaler Datenbankdienst",
+      "Eine Analyse-Lösung, die Data Warehousing und Big Data kombiniert",
+      "Ein Dateispeicherdienst",
+      "Ein Netzwerkdienst"
+    ],
+    "answer": "Eine Analyse-Lösung, die Data Warehousing und Big Data kombiniert"
+  },
+  {
+    "question": "Was ist Azure Cosmos DB?",
+    "options": [
+      "Eine SQL-Datenbank",
+      "Eine global verteilte NoSQL-Datenbank",
+      "Ein Blob-Speicherdienst",
+      "Ein Analysedienst"
+    ],
+    "answer": "Eine global verteilte NoSQL-Datenbank"
+  },
+  {
+    "question": "Was ist Azure Data Lake Storage?",
+    "options": [
+      "Ein relationaler Datenbankdienst",
+      "Ein Speicherdienst, der für große Datenmengen optimiert ist",
+      "Ein Echtzeit-Analysedienst",
+      "Ein Netzwerkdienst"
+    ],
+    "answer": "Ein Speicherdienst, der für große Datenmengen optimiert ist"
+  },
+  {
+    "question": "Was ist Azure Active Directory (Azure AD)?",
+    "options": [
+      "Ein Cloud-Speicherdienst",
+      "Ein Datenbankdienst",
+      "Ein Identitäts- und Zugriffsverwaltungsdienst",
+      "Ein Netzwerkdienst"
+    ],
+    "answer": "Ein Identitäts- und Zugriffsverwaltungsdienst"
+  },
+  {
+    "question": "Was ist der Zweck von Azure Network Watcher?",
+    "options": [
+      "Bietet Cloud-Speicher",
+      "Überwacht und diagnostiziert Netzwerkprobleme",
+      "Bietet Datenbankdienste",
+      "Verwaltet Identitäten und Zugriffe"
+    ],
+    "answer": "Überwacht und diagnostiziert Netzwerkprobleme"
+  },
+  {
+    "question": "Was ist Azure Logic Apps?",
+    "options": [
+      "Ein Datenbankdienst",
+      "Ein Speicherdienst",
+      "Ein Dienst zur Automatisierung von Geschäftsabläufen",
+      "Ein Netzwerkdienst"
+    ],
+    "answer": "Ein Dienst zur Automatisierung von Geschäftsabläufen"
+  },
+  {
+    "question": "Was ist Azure Data Factory?",
+    "options": [
+      "Ein Speicherdienst",
+      "Ein Datenbankdienst",
+      "Ein Dienst zur Datenintegration für die Datenbewegung und -transformation",
+      "Ein Netzwerkdienst"
+    ],
+    "answer": "Ein Dienst zur Datenintegration für die Datenbewegung und -transformation"
+  },
+  {
+    "question": "Was ist Azure Bastion?",
+    "options": [
+      "Ein Speicherdienst",
+      "Ein Datenbankdienst",
+      "Ein Netzwerkdienst, der eine sichere Verbindung zu virtuellen Maschinen ermöglicht",
+      "Ein Identitätsverwaltungsdienst"
+    ],
+    "answer": "Ein Netzwerkdienst, der eine sichere Verbindung zu virtuellen Maschinen ermöglicht"
+  },
+  {
+    "question": "Was ist Azure Event Grid?",
+    "options": [
+      "Ein Speicherdienst",
+      "Ein Datenbankdienst",
+      "Ein Dienst zur Verwaltung des Event-Routings",
+      "Ein Netzwerkdienst"
+    ],
+    "answer": "Ein Dienst zur Verwaltung des Event-Routings"
+  },
+  {
+    "question": "Was ist Azure File Sync?",
+    "options": [
+      "Ein lokaler Dateispeicherdienst",
+      "Ein Datenbankdienst",
+      "Ein Dienst zur Zentralisierung und Synchronisierung von Dateien in Azure und auf lokalen Servern",
+      "Ein Netzwerkdienst"
+    ],
+    "answer": "Ein Dienst zur Zentralisierung und Synchronisierung von Dateien in Azure und auf lokalen Servern"
+  },
+  {
+    "question": "Was ist Azure Private Link?",
+    "options": [
+      "Ein Speicherdienst",
+      "Ein Datenbankdienst",
+      "Ein Dienst, der den Zugriff auf Azure-Dienste über eine private Verbindung ermöglicht",
+      "Ein Netzwerkdienst"
+    ],
+    "answer": "Ein Dienst, der den Zugriff auf Azure-Dienste über eine private Verbindung ermöglicht"
+  },
+  {
+    "question": "Was ist Azure Cost Management and Billing?",
+    "options": [
+      "Ein Datenbankdienst",
+      "Ein Speicherdienst",
+      "Ein Tool zur Überwachung und Steuerung der Azure-Kosten",
+      "Ein Netzwerkdienst"
+    ],
+    "answer": "Ein Tool zur Überwachung und Steuerung der Azure-Kosten"
+  },
+  {
+    "question": "Was ist Azure Site Recovery?",
+    "options": [
+      "Ein Speicherdienst",
+      "Ein Datenbankdienst",
+      "Ein Dienst, der die Notfallwiederherstellung durch Replikation von virtuellen Maschinen ermöglicht",
+      "Ein Netzwerkdienst"
+    ],
+    "answer": "Ein Dienst, der die Notfallwiederherstellung durch Replikation von virtuellen Maschinen ermöglicht"
+  },
+  {
+    "question": "Was ist Azure Arc?",
+    "options": [
+      "Ein Speicherdienst",
+      "Ein Datenbankdienst",
+      "Ein Dienst zur Verwaltung von lokalen und Multi-Cloud-Ressourcen aus Azure heraus",
+      "Ein Netzwerkdienst"
+    ],
+    "answer": "Ein Dienst zur Verwaltung von lokalen und Multi-Cloud-Ressourcen aus Azure heraus"
+  },
+  {
+    "question": "Was ist Azure Data Bricks?",
+    "options": [
+      "Ein Speicherdienst",
+      "Ein Datenbankdienst",
+      "Ein Analysedienst, der Apache Spark unterstützt",
+      "Ein Netzwerkdienst"
+    ],
+    "answer": "Ein Analysedienst, der Apache Spark unterstützt"
+  },
+  {
+    "question": "Was ist Azure ExpressRoute?",
+    "options": [
+      "Ein Speicherdienst",
+      "Ein Datenbankdienst",
+      "Ein Dienst, der private Verbindungen zwischen Azure-Rechenzentren und der lokalen Infrastruktur herstellt",
+      "Ein Netzwerkdienst"
+    ],
+    "answer": "Ein Dienst, der private Verbindungen zwischen Azure-Rechenzentren und der lokalen Infrastruktur herstellt"
+  },
+  {
+    "question": "Was ist Azure Logic Apps?",
+    "options": [
+      "Ein Speicherdienst",
+      "Ein Datenbankdienst",
+      "Ein Dienst zur Erstellung und Ausführung automatisierter Arbeitsabläufe",
+      "Ein Netzwerkdienst"
+    ],
+    "answer": "Ein Dienst zur Erstellung und Ausführung automatisierter Arbeitsabläufe"
+  },
+  {
+    "question": "Was ist Azure Application Gateway?",
+    "options": [
+      "Ein Speicherdienst",
+      "Ein Datenbankdienst",
+      "Ein Load Balancer für Webanwendungen",
+      "Ein Netzwerkdienst"
+    ],
+    "answer": "Ein Load Balancer für Webanwendungen"
+  },
+  {
+    "question": "Was ist Azure Functions?",
+    "options": [
+      "Ein Speicherdienst",
+      "Ein Datenbankdienst",
+      "Ein Serverless-Computing-Dienst",
+      "Ein Netzwerkdienst"
+    ],
+    "answer": "Ein Serverless-Computing-Dienst"
+  },
+  {
+    "question": "Was ist Azure Table Storage?",
+    "options": [
+      "Ein relationaler Datenbankdienst",
+      "Ein Speicherdienst für NoSQL-Daten",
+      "Ein Überwachungsdienst",
+      "Ein Netzwerkdienst"
+    ],
+    "answer": "Ein Speicherdienst für NoSQL-Daten"
+  },
+  {
+    "question": "Was ist Azure Traffic Manager?",
+    "options": [
+      "Ein Speicherdienst",
+      "Ein Datenbankdienst",
+      "Ein DNS-basierter Lastenausgleichsdienst",
+      "Ein Netzwerkdienst"
+    ],
+    "answer": "Ein DNS-basierter Lastenausgleichsdienst"
+  },
+  {
+    "question": "Was ist Azure Disk Encryption?",
+    "options": [
+      "Ein Datenbankdienst",
+      "Ein Speicherdienst, der Festplattenverschlüsselung bereitstellt",
+      "Ein Überwachungsdienst",
+      "Ein Netzwerkdienst"
+    ],
+    "answer": "Ein Speicherdienst, der Festplattenverschlüsselung bereitstellt"
+  },
+  {
+    "question": "Was ist Azure Data Box?",
+    "options": [
+      "Ein Cloud-Speicherdienst",
+      "Ein physisches Gerät zum Übertragen großer Datenmengen nach Azure",
+      "Ein Netzwerkdienst",
+      "Ein Überwachungsdienst"
+    ],
+    "answer": "Ein physisches Gerät zum Übertragen großer Datenmengen nach Azure"
+  },
+  {
+    "question": "Was ist Azure Load Balancer?",
+    "options": [
+      "Ein Speicherdienst",
+      "Ein Datenbankdienst",
+      "Ein Lastenausgleichsdienst zur Verteilung des Datenverkehrs zwischen virtuellen Maschinen",
+      "Ein Netzwerkdienst"
+    ],
+    "answer": "Ein Lastenausgleichsdienst zur Verteilung des Datenverkehrs zwischen virtuellen Maschinen"
+  },
+  {
+    "question": "Was ist Azure Blob Storage?",
+    "options": [
+      "Ein Speicherdienst für große Mengen unstrukturierter Daten",
+      "Ein Datenbankdienst",
+      "Ein Computing-Dienst",
+      "Ein Netzwerkdienst"
+    ],
+    "answer": "Ein Speicherdienst für große Mengen unstrukturierter Daten"
+  },
+  {
+    "question": "Was ist Azure Front Door?",
+    "options": [
+      "Ein Speicherdienst",
+      "Ein Datenbankdienst",
+      "Ein globaler Lastenausgleichs- und Anwendungsbeschleunigungsdienst",
+      "Ein Netzwerkdienst"
+    ],
+    "answer": "Ein globaler Lastenausgleichs- und Anwendungsbeschleunigungsdienst"
+  },
+  {
+    "question": "Was ist Azure Firewall?",
+    "options": [
+      "Ein Speicherdienst",
+      "Ein Datenbankdienst",
+      "Ein Sicherheitsdienst zur Verwaltung des Netzwerkverkehrs",
+      "Ein Netzwerkdienst"
+    ],
+    "answer": "Ein Sicherheitsdienst zur Verwaltung des Netzwerkverkehrs"
+  },
+  {
+    "question": "Was ist Azure Virtual WAN?",
+    "options": [
+      "Ein Speicherdienst",
+      "Ein Datenbankdienst",
+      "Ein Dienst, der globale Konnektivität für virtuelle Netzwerke bietet",
+      "Ein Netzwerkdienst"
+    ],
+    "answer": "Ein Dienst, der globale Konnektivität für virtuelle Netzwerke bietet"
+  },
+  {
+    "question": "Was ist Azure Security Center?",
+    "options": [
+      "Ein Speicherdienst",
+      "Ein Datenbankdienst",
+      "Ein Tool zur Verwaltung der Sicherheit und Konformität von Azure-Ressourcen",
+      "Ein Netzwerkdienst"
+    ],
+    "answer": "Ein Tool zur Verwaltung der Sicherheit und Konformität von Azure-Ressourcen"
+  },
+  {
+    "question": "Was ist Azure Service Fabric?",
+    "options": [
+      "Ein Speicherdienst",
+      "Ein Datenbankdienst",
+      "Eine Plattform zum Erstellen und Verwalten skalierbarer Microservice-Anwendungen",
+      "Ein Netzwerkdienst"
+    ],
+    "answer": "Eine Plattform zum Erstellen und Verwalten skalierbarer Microservice-Anwendungen"
+  },
+  {
+    "question": "Was ist Azure Monitor?",
+    "options": [
+      "Ein Speicherdienst",
+      "Ein Datenbankdienst",
+      "Ein Dienst zur Sammlung und Analyse von Telemetriedaten von Azure-Ressourcen",
+      "Ein Netzwerkdienst"
+    ],
+    "answer": "Ein Dienst zur Sammlung und Analyse von Telemetriedaten von Azure-Ressourcen"
+  },
+  {
+    "question": "Was ist Azure API Management?",
+    "options": [
+      "Ein Speicherdienst",
+      "Ein Datenbankdienst",
+      "Ein Dienst zur Verwaltung und Veröffentlichung von APIs",
+      "Ein Netzwerkdienst"
+    ],
+    "answer": "Ein Dienst zur Verwaltung und Veröffentlichung von APIs"
+  },
+  {
+    "question": "Was ist Azure Backup?",
+    "options": [
+      "Ein Speicherdienst",
+      "Ein Datenbankdienst",
+      "Ein Dienst zur Sicherung und Wiederherstellung von Daten in der Cloud",
+      "Ein Netzwerkdienst"
+    ],
+    "answer": "Ein Dienst zur Sicherung und Wiederherstellung von Daten in der Cloud"
+  },
+  {
+    "question": "Was ist Azure HDInsight?",
+    "options": [
+      "Ein Speicherdienst",
+      "Ein Datenbankdienst",
+      "Ein Big-Data-Analysedienst, der Apache Hadoop unterstützt",
+      "Ein Netzwerkdienst"
+    ],
+    "answer": "Ein Big-Data-Analysedienst, der Apache Hadoop unterstützt"
+  },
+  {
+    "question": "Was ist Azure App Configuration?",
+    "options": [
+      "Ein Speicherdienst",
+      "Ein Datenbankdienst",
+      "Ein Dienst zur zentralisierten Verwaltung von Anwendungs-Konfigurationen",
+      "Ein Netzwerkdienst"
+    ],
+    "answer": "Ein Dienst zur zentralisierten Verwaltung von Anwendungs-Konfigurationen"
+  },
+  {
+    "question": "Was ist Azure Event Hubs?",
+    "options": [
+      "Ein Speicherdienst",
+      "Ein Datenbankdienst",
+      "Ein Dienst zur Echtzeit-Datenerfassung im großen Maßstab",
+      "Ein Netzwerkdienst"
+    ],
+    "answer": "Ein Dienst zur Echtzeit-Datenerfassung im großen Maßstab"
+  },
+  {
+    "question": "Was ist Azure Automation?",
+    "options": [
+      "Ein Speicherdienst",
+      "Ein Datenbankdienst",
+      "Ein Dienst zur Automatisierung wiederkehrender Verwaltungsaufgaben in Azure",
+      "Ein Netzwerkdienst"
+    ],
+    "answer": "Ein Dienst zur Automatisierung wiederkehrender Verwaltungsaufgaben in Azure"
+  },
+  {
+    "question": "Was ist die Funktion von Azure Virtual Machines?",
+    "options": [
+      "Bereitstellung einer Plattform für die Erstellung und Verwaltung von virtuellen Maschinen in Azure.",
+      "Bereitstellung von skalierbarem und redundanzfähigem Speicher in Azure.",
+      "Überwachung der Leistung von Anwendungen in Azure.",
+      "Implementierung von Sicherheitsrichtlinien in virtuellen Azure-Netzwerken."
+    ],
+    "answer": "Bereitstellung einer Plattform für die Erstellung und Verwaltung von virtuellen Maschinen in Azure."
+  },
+  {
+    "question": "Welches Azure-Tool wird verwendet, um den Status der Azure-Dienste zu überwachen, Benachrichtigungen zu erhalten und den Verlauf von Vorfällen zu sehen?",
+    "options": [
+      "Azure Advisor",
+      "Azure Monitor",
+      "Azure Security Center",
+      "Azure Purview"
+    ],
+    "answer": "Azure Monitor"
+  },
+  {
+    "question": "Was ist eine Schlüsselfunktion von Azure Blob Storage?",
+    "options": [
+      "Bereitstellung von Netzwerksicherheit in Azure.",
+      "Bereitstellung von skalierbarem und redundanzfähigem Speicher in Azure.",
+      "Überwachung der Leistung von Anwendungen in Azure.",
+      "Implementierung von Sicherheitsrichtlinien in virtuellen Azure-Netzwerken."
+    ],
+    "answer": "Bereitstellung von skalierbarem und redundanzfähigem Speicher in Azure."
+  },
+  {
+    "question": "Welches Azure-Tool bietet Empfehlungen zur Verbesserung der Sicherheit, Leistung und Zuverlässigkeit von Azure-Ressourcen?",
+    "options": [
+      "Azure Advisor",
+      "Azure Monitor",
+      "Azure Security Center",
+      "Azure Purview"
+    ],
+    "answer": "Azure Advisor"
+  },
+  {
+    "question": "Was ist der Hauptvorteil von Azure Functions?",
+    "options": [
+      "Bereitstellung skalierbarer virtueller Maschinen in Azure.",
+      "Bereitstellung einer Plattform für das Serverless Computing in Azure.",
+      "Bereitstellung von Hochverfügbarkeit für Anwendungen in Azure.",
+      "Implementierung von Netzwerksicherheit in virtuellen Azure-Netzwerken."
+    ],
+    "answer": "Bereitstellung einer Plattform für das Serverless Computing in Azure."
+  },
+  {
+    "question": "Welches Azure-Tool bietet einen vollständigen Überblick über die Leistung, Verfügbarkeit und Nutzung von Anwendungen in Azure?",
+    "options": [
+      "Azure Advisor",
+      "Azure Monitor",
+      "Azure Security Center",
+      "Azure Purview"
+    ],
+    "answer": "Azure Monitor"
+  },
+  {
+    "question": "Was ist ein Vorteil der Verwendung von Azure Virtual Networks?",
+    "options": [
+      "Bereitstellung skalierbarer und redundanter Speicher in Azure.",
+      "Bereitstellung von Netzwerksicherheit für Azure-Ressourcen.",
+      "Überwachung der Anwendungsleistung in Azure.",
+      "Implementierung von Sicherheitsrichtlinien in Azure-VMs."
+    ],
+    "answer": "Bereitstellung von Netzwerksicherheit für Azure-Ressourcen."
+  },
+  {
+    "question": "Was ist der Hauptzweck von Azure Key Vault?",
+    "options": [
+      "Bereitstellung von Hochverfügbarkeit für Azure-Dienste.",
+      "Sicherung und Verwaltung von Geheimnissen, Zertifikaten und Schlüsseln in Azure.",
+      "Bereitstellung von Serverless Computing in Azure.",
+      "Implementierung von Überwachungslösungen in Azure."
+    ],
+    "answer": "Sicherung und Verwaltung von Geheimnissen, Zertifikaten und Schlüsseln in Azure."
+  },
+  {
+    "question": "Welches Azure-Tool bietet eine zentrale Plattform zur Verwaltung von Sicherheitsrichtlinien, -einstellungen und -richtliniendurchsetzungen für Azure-Ressourcen?",
+    "options": [
+      "Azure Advisor",
+      "Azure Monitor",
+      "Azure Security Center",
+      "Azure Purview"
+    ],
+    "answer": "Azure Security Center"
+  },
+  {
+    "question": "Was ist eine Hauptfunktion von Azure Bastion?",
+    "options": [
+      "Bereitstellung einer sicheren Verbindung zu Azure Virtual Machines über das Azure-Portal.",
+      "Überwachung der Leistung von Anwendungen in Azure.",
+      "Bereitstellung skalierbaren und redundanten Speichers in Azure.",
+      "Implementierung von Sicherheitsrichtlinien in virtuellen Azure-Netzwerken."
+    ],
+    "answer": "Bereitstellung einer sicheren Verbindung zu Azure Virtual Machines über das Azure-Portal."
+  },
+  {
+    "question": "Was ist der Hauptzweck von Azure Purview?",
+    "options": [
+      "Verwaltung von Kosten und Ressourcen in Azure.",
+      "Überwachung der Netzwerksicherheit in Azure.",
+      "Erfassung und Verwaltung von Datenbeständen über verschiedene Datenquellen hinweg.",
+      "Implementierung von Sicherheitsrichtlinien in virtuellen Azure-Netzwerken."
+    ],
+    "answer": "Erfassung und Verwaltung von Datenbeständen über verschiedene Datenquellen hinweg."
+  },
+  {
+    "question": "Was ist die Hauptfunktion von Azure Load Balancer?",
+    "options": [
+      "Überwachung der Leistung von Anwendungen in Azure.",
+      "Bereitstellung von Lastausgleich zur Verteilung des Netzwerkverkehrs auf mehrere Anwendungsinstanzen.",
+      "Implementierung von Sicherheitsrichtlinien in virtuellen Azure-Netzwerken.",
+      "Bereitstellung skalierbaren und redundanten Speichers in Azure."
+    ],
+    "answer": "Bereitstellung von Lastausgleich zur Verteilung des Netzwerkverkehrs auf mehrere Anwendungsinstanzen."
+  },
+  {
+    "question": "Welches Azure-Tool bietet eine umfassende Lösung zur Überwachung, Verwaltung und Sicherung von Anwendungsressourcen in Azure?",
+    "options": [
+      "Azure Advisor",
+      "Azure Monitor",
+      "Azure Security Center",
+      "Azure Purview"
+    ],
+    "answer": "Azure Monitor"
+  },
+  {
+    "question": "Was ist ein Vorteil der Verwendung von Azure SQL Database?",
+    "options": [
+      "Bereitstellung von skalierbarem und redundantem Speicher in Azure.",
+      "Bereitstellung von Sicherheitsrichtlinien für Azure-Ressourcen.",
+      "Hochverfügbarkeit und automatische Sicherung in der Cloud.",
+      "Implementierung von Serverless Computing in Azure."
+    ],
+    "answer": "Hochverfügbarkeit und automatische Sicherung in der Cloud."
+  },
+  {
+    "question": "Welches Azure-Tool bietet Empfehlungen zur Verbesserung der Sicherheit, Leistung und Kostenoptimierung von Azure-Ressourcen?",
+    "options": [
+      "Azure Advisor",
+      "Azure Monitor",
+      "Azure Security Center",
+      "Azure Purview"
+    ],
+    "answer": "Azure Advisor"
+  },
+  {
+    "question": "Was ist eine Hauptfunktion von Azure Container Instances?",
+    "options": [
+      "Bereitstellung virtueller Maschinen in Azure.",
+      "Bereitstellung von Container-Orchestrierung in Azure.",
+      "Bereitstellung von Hochverfügbarkeit für Anwendungen in Azure.",
+      "Implementierung von Sicherheitsrichtlinien in virtuellen Azure-Netzwerken."
+    ],
+    "answer": "Bereitstellung von Container-Orchestrierung in Azure."
+  },
+  {
+    "question": "Was ist der Hauptzweck von Azure Active Directory?",
+    "options": [
+      "Bereitstellung von Hochverfügbarkeit für Azure-Dienste.",
+      "Verwaltung von Cloud-Ressourcen in Azure.",
+      "Zentralisierte Verwaltung von Identitäten und Zugriff auf Anwendungen in der Cloud.",
+      "Implementierung von Sicherheitsrichtlinien in virtuellen Azure-Netzwerken."
+    ],
+    "answer": "Zentralisierte Verwaltung von Identitäten und Zugriff auf Anwendungen in der Cloud."
+  },
+  {
+    "question": "Was ist eine Hauptfunktion von Azure Kubernetes Service (AKS)?",
+    "options": [
+      "Bereitstellung virtueller Maschinen in Azure.",
+      "Bereitstellung von Hochverfügbarkeit für Anwendungen in Azure.",
+      "Bereitstellung von Container-Orchestrierung in Azure.",
+      "Implementierung von Sicherheitsrichtlinien in virtuellen Azure-Netzwerken."
+    ],
+    "answer": "Bereitstellung von Container-Orchestrierung in Azure."
+  },
+  {
+    "question": "Was ist der Hauptzweck von Azure Cosmos DB?",
+    "options": [
+      "Bereitstellung von hoch skalierbarem und redundanzfähigem Speicher in Azure.",
+      "Bereitstellung von Netzwerksicherheit für Azure-Ressourcen.",
+      "Verwaltung und Bereitstellung von Datenbanken mit globaler Verteilung und horizontaler Skalierung.",
+      "Implementierung von Sicherheitsrichtlinien in virtuellen Azure-Netzwerken."
+    ],
+    "answer": "Verwaltung und Bereitstellung von Datenbanken mit globaler Verteilung und horizontaler Skalierung."
+  },
+  {
+    "question": "Welches Azure-Tool bietet eine umfassende Plattform zur Überwachung, Diagnose und Behebung von Netzwerkproblemen in Azure?",
+    "options": [
+      "Azure Advisor",
+      "Azure Monitor",
+      "Azure Network Watcher",
+      "Azure Purview"
+    ],
+    "answer": "Azure Network Watcher"
+  },
+  {
+    "question": "Was ist eine Schlüsselfunktion von Azure Firewall?",
+    "options": [
+      "Bereitstellung von skalierbarem und redundanzfähigem Speicher in Azure.",
+      "Bereitstellung von Netzwerksicherheit für Azure-Ressourcen.",
+      "Überwachung der Leistung von Anwendungen in Azure.",
+      "Implementierung von Sicherheitsrichtlinien in virtuellen Azure-Netzwerken."
+    ],
+    "answer": "Bereitstellung von Netzwerksicherheit für Azure-Ressourcen."
+  },
+  {
+    "question": "Welches Azure-Tool bietet eine zentrale Plattform zur Überwachung, Verwaltung und Sicherung von Sicherheitsrichtlinien in Azure?",
+    "options": [
+      "Azure Advisor",
+      "Azure Monitor",
+      "Azure Security Center",
+      "Azure Purview"
+    ],
+    "answer": "Azure Security Center"
+  },
+  {
+    "question": "Was ist ein Hauptvorteil der Verwendung von Azure Blob Storage?",
+    "options": [
+      "Bereitstellung von Hochverfügbarkeit für Azure-Dienste.",
+      "Bereitstellung von skalierbarem und redundanzfähigem Speicher in Azure.",
+      "Bereitstellung von Netzwerksicherheit für Azure-Ressourcen.",
+      "Implementierung von Serverless Computing in Azure."
+    ],
+    "answer": "Bereitstellung von skalierbarem und redundanzfähigem Speicher in Azure."
+  },
+  {
+    "question": "Was ist eine Hauptfunktion von Azure Traffic Manager?",
+    "options": [
+      "Bereitstellung von Netzwerksicherheit für Azure-Ressourcen.",
+      "Bereitstellung von skalierbarem und redundanzfähigem Speicher in Azure.",
+      "Überwachung der Leistung von Anwendungen in Azure.",
+      "Lastausgleich und globale Verkehrsverwaltung für Anwendungen in verschiedenen Azure-Regionen."
+    ],
+    "answer": "Lastausgleich und globale Verkehrsverwaltung für Anwendungen in verschiedenen Azure-Regionen."
+  },
+  {
+    "question": "Was ist der Hauptzweck von Azure DevOps?",
+    "options": [
+      "Bereitstellung von Netzwerksicherheit in Azure.",
+      "Bereitstellung einer Plattform für das Serverless Computing in Azure.",
+      "Bereitstellung von Werkzeugen für die Zusammenarbeit und Softwarebereitstellung.",
+      "Implementierung von Sicherheitsrichtlinien in virtuellen Azure-Netzwerken."
+    ],
+    "answer": "Bereitstellung von Werkzeugen für die Zusammenarbeit und Softwarebereitstellung."
+  },
+  {
+    "question": "Was ist ein Vorteil der Verwendung von Azure ExpressRoute?",
+    "options": [
+      "Bereitstellung von Hochverfügbarkeit für Azure-Dienste.",
+      "Private Verbindung mit hoher Bandbreite zwischen lokaler Infrastruktur und Azure.",
+      "Bereitstellung von skalierbarem und redundanzfähigem Speicher in Azure.",
+      "Implementierung von Serverless Computing in Azure."
+    ],
+    "answer": "Private Verbindung mit hoher Bandbreite zwischen lokaler Infrastruktur und Azure."
+  },
+  {
+    "question": "Welches Azure-Tool bietet eine vollständige Überwachung und Verwaltung von IoT-Geräten in Azure?",
+    "options": [
+      "Azure Advisor",
+      "Azure IoT Hub",
+      "Azure Security Center",
+      "Azure Purview"
+    ],
+    "answer": "Azure IoT Hub"
+  },
+  {
+    "question": "Was ist eine Schlüsselfunktion von Azure App Service?",
+    "options": [
+      "Bereitstellung von hochverfügbaren virtuellen Maschinen in Azure.",
+      "Bereitstellung von Netzwerksicherheit in Azure.",
+      "Bereitstellung von Plattformdiensten zur Entwicklung, Bereitstellung und Skalierung von Webanwendungen in Azure.",
+      "Implementierung von Sicherheitsrichtlinien in virtuellen Azure-Netzwerken."
+    ],
+    "answer": "Bereitstellung von Plattformdiensten zur Entwicklung, Bereitstellung und Skalierung von Webanwendungen in Azure."
+  },
+  {
+    "question": "Was ist ein Hauptvorteil der Verwendung von Azure Logic Apps?",
+    "options": [
+      "Bereitstellung skalierbarer virtueller Maschinen in Azure.",
+      "Bereitstellung von Hochverfügbarkeit für Anwendungen in Azure.",
+      "Automatisierung der Integration und Workflow-Orchestrierung in Azure.",
+      "Implementierung von Sicherheitsrichtlinien in virtuellen Azure-Netzwerken."
+    ],
+    "answer": "Automatisierung der Integration und Workflow-Orchestrierung in Azure."
+  },
+  {
+    "question": "Was ist der Hauptzweck von Azure Functions?",
+    "options": [
+      "Bereitstellung skalierbarer virtueller Maschinen in Azure.",
+      "Bereitstellung einer Plattform für das Serverless Computing in Azure.",
+      "Bereitstellung von Hochverfügbarkeit für Anwendungen in Azure.",
+      "Implementierung von Sicherheitsrichtlinien in virtuellen Azure-Netzwerken."
+    ],
+    "answer": "Bereitstellung einer Plattform für das Serverless Computing in Azure."
+  },
+  {
+    "question": "Was ist eine Hauptfunktion von Azure Cosmos DB?",
+    "options": [
+      "Bereitstellung von hoch skalierbarem und redundanzfähigem Speicher in Azure.",
+      "Bereitstellung von Netzwerksicherheit für Azure-Ressourcen.",
+      "Verwaltung und Bereitstellung von Datenbanken mit globaler Verteilung und horizontaler Skalierung.",
+      "Implementierung von Sicherheitsrichtlinien in virtuellen Azure-Netzwerken."
+    ],
+    "answer": "Verwaltung und Bereitstellung von Datenbanken mit globaler Verteilung und horizontaler Skalierung."
+  },
+  {
+    "question": "Welches Azure-Tool bietet eine umfassende Plattform zur Überwachung, Diagnose und Behebung von Netzwerkproblemen in Azure?",
+    "options": [
+      "Azure Advisor",
+      "Azure Monitor",
+      "Azure Network Watcher",
+      "Azure Purview"
+    ],
+    "answer": "Azure Network Watcher"
+  },
+  {
+    "question": "Was ist eine Schlüsselfunktion von Azure Firewall?",
+    "options": [
+      "Bereitstellung von skalierbarem und redundanzfähigem Speicher in Azure.",
+      "Bereitstellung von Netzwerksicherheit für Azure-Ressourcen.",
+      "Überwachung der Leistung von Anwendungen in Azure.",
+      "Implementierung von Sicherheitsrichtlinien in virtuellen Azure-Netzwerken."
+    ],
+    "answer": "Bereitstellung von Netzwerksicherheit für Azure-Ressourcen."
+  },
+  {
+    "question": "Welches Azure-Tool bietet eine zentrale Plattform zur Überwachung, Verwaltung und Sicherung von Sicherheitsrichtlinien in Azure?",
+    "options": [
+      "Azure Advisor",
+      "Azure Monitor",
+      "Azure Security Center",
+      "Azure Purview"
+    ],
+    "answer": "Azure Security Center"
+  },
+  {
+    "question": "Was ist ein Hauptvorteil der Verwendung von Azure Blob Storage?",
+    "options": [
+      "Bereitstellung von Hochverfügbarkeit für Azure-Dienste.",
+      "Bereitstellung von skalierbarem und redundanzfähigem Speicher in Azure.",
+      "Bereitstellung von Netzwerksicherheit für Azure-Ressourcen.",
+      "Implementierung von Serverless Computing in Azure."
+    ],
+    "answer": "Bereitstellung von skalierbarem und redundanzfähigem Speicher in Azure."
+  },
+  {
+    "question": "Was ist eine Hauptfunktion von Azure Traffic Manager?",
+    "options": [
+      "Bereitstellung von Netzwerksicherheit für Azure-Ressourcen.",
+      "Bereitstellung von skalierbarem und redundanzfähigem Speicher in Azure.",
+      "Überwachung der Leistung von Anwendungen in Azure.",
+      "Lastausgleich und globale Verkehrsverwaltung für Anwendungen in verschiedenen Azure-Regionen."
+    ],
+    "answer": "Lastausgleich und globale Verkehrsverwaltung für Anwendungen in verschiedenen Azure-Regionen."
+  },
+  {
+    "question": "Was ist der Hauptzweck von Azure DevOps?",
+    "options": [
+      "Bereitstellung von Netzwerksicherheit in Azure.",
+      "Bereitstellung einer Plattform für das Serverless Computing in Azure.",
+      "Bereitstellung von Werkzeugen für die Zusammenarbeit und Softwarebereitstellung.",
+      "Implementierung von Sicherheitsrichtlinien in virtuellen Azure-Netzwerken."
+    ],
+    "answer": "Bereitstellung von Werkzeugen für die Zusammenarbeit und Softwarebereitstellung."
+  },
+  {
+    "question": "Was ist ein Vorteil der Verwendung von Azure ExpressRoute?",
+    "options": [
+      "Bereitstellung von Hochverfügbarkeit für Azure-Dienste.",
+      "Private Verbindung mit hoher Bandbreite zwischen lokaler Infrastruktur und Azure.",
+      "Bereitstellung von skalierbarem und redundanzfähigem Speicher in Azure.",
+      "Implementierung von Serverless Computing in Azure."
+    ],
+    "answer": "Private Verbindung mit hoher Bandbreite zwischen lokaler Infrastruktur und Azure."
+  },
+  {
+    "question": "Welches Azure-Tool bietet eine vollständige Überwachung und Verwaltung von IoT-Geräten in Azure?",
+    "options": [
+      "Azure Advisor",
+      "Azure IoT Hub",
+      "Azure Security Center",
+      "Azure Purview"
+    ],
+    "answer": "Azure IoT Hub"
+  },
+  {
+    "question": "Was ist eine Schlüsselfunktion von Azure App Service?",
+    "options": [
+      "Bereitstellung von hochverfügbaren virtuellen Maschinen in Azure.",
+      "Bereitstellung von Netzwerksicherheit in Azure.",
+      "Bereitstellung von Plattformdiensten zur Entwicklung, Bereitstellung und Skalierung von Webanwendungen in Azure.",
+      "Implementierung von Sicherheitsrichtlinien in virtuellen Azure-Netzwerken."
+    ],
+    "answer": "Bereitstellung von Plattformdiensten zur Entwicklung, Bereitstellung und Skalierung von Webanwendungen in Azure."
+  },
+  {
+    "question": "Was ist ein Hauptvorteil der Verwendung von Azure Logic Apps?",
+    "options": [
+      "Bereitstellung skalierbarer virtueller Maschinen in Azure.",
+      "Bereitstellung von Hochverfügbarkeit für Anwendungen in Azure.",
+      "Automatisierung der Integration und Workflow-Orchestrierung in Azure.",
+      "Implementierung von Sicherheitsrichtlinien in virtuellen Azure-Netzwerken."
+    ],
+    "answer": "Automatisierung der Integration und Workflow-Orchestrierung in Azure."
+  },
+  {
+    "question": "Was ist der Hauptzweck von Azure Functions?",
+    "options": [
+      "Bereitstellung skalierbarer virtueller Maschinen in Azure.",
+      "Bereitstellung einer Plattform für das Serverless Computing in Azure.",
+      "Bereitstellung von Hochverfügbarkeit für Anwendungen in Azure.",
+      "Implementierung von Sicherheitsrichtlinien in virtuellen Azure-Netzwerken."
+    ],
+    "answer": "Bereitstellung einer Plattform für das Serverless Computing in Azure."
+  },
+  {
+    "question": "Was ist eine Hauptfunktion von Azure Cosmos DB?",
+    "options": [
+      "Bereitstellung von hoch skalierbarem und redundanzfähigem Speicher in Azure.",
+      "Bereitstellung von Netzwerksicherheit für Azure-Ressourcen.",
+      "Verwaltung und Bereitstellung von Datenbanken mit globaler Verteilung und horizontaler Skalierung.",
+      "Implementierung von Sicherheitsrichtlinien in virtuellen Azure-Netzwerken."
+    ],
+    "answer": "Verwaltung und Bereitstellung von Datenbanken mit globaler Verteilung und horizontaler Skalierung."
+  },
+  {
+    "question": "Welches Azure-Tool bietet eine umfassende Plattform zur Überwachung, Diagnose und Behebung von Netzwerkproblemen in Azure?",
+    "options": [
+      "Azure Advisor",
+      "Azure Monitor",
+      "Azure Network Watcher",
+      "Azure Purview"
+    ],
+    "answer": "Azure Network Watcher"
+  },
+  {
+    "question": "Was ist eine Schlüsselfunktion von Azure Firewall?",
+    "options": [
+      "Bereitstellung von skalierbarem und redundanzfähigem Speicher in Azure.",
+      "Bereitstellung von Netzwerksicherheit für Azure-Ressourcen.",
+      "Überwachung der Leistung von Anwendungen in Azure.",
+      "Implementierung von Sicherheitsrichtlinien in virtuellen Azure-Netzwerken."
+    ],
+    "answer": "Bereitstellung von Netzwerksicherheit für Azure-Ressourcen."
+  },
+  {
+    "question": "Welches Azure-Tool bietet eine zentrale Plattform zur Überwachung, Verwaltung und Sicherung von Sicherheitsrichtlinien in Azure?",
+    "options": [
+      "Azure Advisor",
+      "Azure Monitor",
+      "Azure Security Center",
+      "Azure Purview"
+    ],
+    "answer": "Azure Security Center"
+  },
+  {
+    "question": "Was ist ein Hauptvorteil der Verwendung von Azure Blob Storage?",
+    "options": [
+      "Bereitstellung von Hochverfügbarkeit für Azure-Dienste.",
+      "Bereitstellung von skalierbarem und redundanzfähigem Speicher in Azure.",
+      "Bereitstellung von Netzwerksicherheit für Azure-Ressourcen.",
+      "Implementierung von Serverless Computing in Azure."
+    ],
+    "answer": "Bereitstellung von skalierbarem und redundanzfähigem Speicher in Azure."
+  },
+  {
+    "question": "Was ist eine Hauptfunktion von Azure Traffic Manager?",
+    "options": [
+      "Bereitstellung von Netzwerksicherheit für Azure-Ressourcen.",
+      "Bereitstellung von skalierbarem und redundanzfähigem Speicher in Azure.",
+      "Überwachung der Leistung von Anwendungen in Azure.",
+      "Lastausgleich und globale Verkehrsverwaltung für Anwendungen in verschiedenen Azure-Regionen."
+    ],
+    "answer": "Lastausgleich und globale Verkehrsverwaltung für Anwendungen in verschiedenen Azure-Regionen."
+  },
+  {
+    "question": "Was ist der Hauptzweck von Azure DevOps?",
+    "options": [
+      "Bereitstellung von Netzwerksicherheit in Azure.",
+      "Bereitstellung einer Plattform für das Serverless Computing in Azure.",
+      "Bereitstellung von Werkzeugen für die Zusammenarbeit und Softwarebereitstellung.",
+      "Implementierung von Sicherheitsrichtlinien in virtuellen Azure-Netzwerken."
+    ],
+    "answer": "Bereitstellung von Werkzeugen für die Zusammenarbeit und Softwarebereitstellung."
+  }
+]

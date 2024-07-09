@@ -1,0 +1,15 @@
+{
+  "elegirCantidadPreguntas": "Choose number of questions ",
+  "puntuacion": "Score",
+  "porcentajeAciertos": "Current percentage: ",
+  "respuestaCorrecta": "Correct answer!",
+  "respuestaIncorrecta": "Incorrect answer",
+  "tiempoRestante": "Time left",
+  "reiniciarQuiz": "Restart Quiz",
+  "iniciarQuiz": "Start Quiz",
+  "verificarRespuesta": "Check Answer",
+  "siguientePregunta": "Next Question",
+  "pregunta": "Question:",
+  "de": " of",
+  "porcentajeAciertosActual": "Current success percentage: "
+}

@@ -1,0 +1,207 @@
+body,
+html {
+  background-color: aqua;
+  height: 100%;
+  margin: 0;
+  font-family: Arial, sans-serif;
+}
+
+.App {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+}
+
+.language-buttons {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 20px;
+}
+
+.language-buttons button {
+  margin: 0 5px;
+  padding: 10px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  background-color: #e0e0e0;
+  color: #000;
+}
+
+.language-buttons .selected {
+  background-color: blue;
+  color: white;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center; /* Añadido para centrar verticalmente */
+  background: #ffffff;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  max-width: 600px;
+  width: 100%; /* Ensure the container width is 100% of its max-width */
+  margin: 20px auto; /* Ajustado para tener un margen superior e inferior */
+}
+
+.start-quiz {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.start-quiz label {
+  margin-bottom: 10px;
+}
+
+.start-quiz-button {
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  background-color: blue;
+  color: white;
+}
+
+.timer {
+  font-size: 20px;
+  margin-bottom: 10px;
+}
+
+h1 {
+  font-size: 2em; /* Tamaño del título ajustado */
+  margin-bottom: 20px; /* Espacio inferior para separar el título del contenido */
+  text-align: center; /* Añadido para centrar el texto del título */
+}
+
+h2 {
+  font-size: 24px;
+  margin-bottom: 10px;
+}
+
+.option {
+  display: flex;
+  align-items: center;
+  margin-bottom: 10px;
+  cursor: pointer;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+.option.selected {
+  background-color: rgba(255, 255, 0, 0.473);
+}
+
+.option.correct {
+  background-color: rgba(0, 128, 0, 0.575);
+}
+
+.option.incorrect {
+  background-color: rgba(255, 0, 0, 0.432);
+}
+
+.button-container {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 20px;
+}
+
+.verificar,
+.siguientePregunta,
+.ver-respuestas {
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  background-color: blue;
+  color: white;
+  margin-right: 10px; /* Añadido para separar los botones */
+}
+
+.verificar:hover,
+.siguientePregunta:hover,
+.ver-respuestas:hover {
+  background-color: #0056b3;
+}
+
+.score-percentage {
+  margin-top: 10px;
+  font-size: 18px;
+  color: green;
+}
+
+.question-counter {
+  font-size: 18px;
+  margin-bottom: 10px;
+}
+
+.verificar,
+.siguientePregunta,
+.ver-respuestas {
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  background-color: blue;
+  color: white;
+  margin-right: 10px; /* Añadido para separar los botones */
+}
+
+.verificar:hover,
+.siguientePregunta:hover,
+.ver-respuestas:hover {
+  background-color: #0056b3;
+}
+
+/* Ajustes para mostrar las respuestas */
+.respuesta-container {
+  margin-top: 20px;
+  border-top: 2px solid #ccc;
+  padding-top: 20px;
+}
+
+.respuesta-item {
+  margin-bottom: 10px;
+}
+
+.respuesta-item p {
+  margin: 5px 0;
+}
+
+.respuesta-item.correct {
+  color: green;
+}
+
+.respuesta-item.incorrect {
+  color: red;
+}
+
+/* Estilos para la barra de carga */
+.progress-bar-container {
+  width: 100%;
+  height: 20px;
+  background-color: #f0f0f0;
+  border-radius: 10px;
+  margin-top: 5px;
+  overflow: hidden;
+}
+
+.progress-bar {
+  height: 100%;
+  transition: width 0.3s ease;
+}
+input[type="number"] {
+  text-align: center; /* Centra el texto dentro del input */
+  width: 50px; /* Ancho del input, ajusta según necesites */
+  padding: 5px; /* Añade padding para mejor apariencia */
+  font-size: 16px; /* Tamaño de la fuente */
+}
+input {
+  border-radius: 15px;
+}

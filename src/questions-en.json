@@ -1,0 +1,1373 @@
+[
+  {
+    "question": "What is the function of Azure Virtual Machines?",
+    "options": [
+      "Providing a platform for creating and managing virtual machines in Azure.",
+      "Providing scalable and redundant storage in Azure.",
+      "Monitoring application performance in Azure.",
+      "Implementing security policies in Azure virtual networks."
+    ],
+    "answer": "Providing a platform for creating and managing virtual machines in Azure."
+  },
+  {
+    "question": "Which Azure tool is used to monitor the status of Azure services, receive notifications, and view incident history?",
+    "options": [
+      "Azure Advisor",
+      "Azure Monitor",
+      "Azure Security Center",
+      "Azure Purview"
+    ],
+    "answer": "Azure Monitor"
+  },
+  {
+    "question": "What is a key function of Azure Blob Storage?",
+    "options": [
+      "Providing network security in Azure.",
+      "Providing scalable and redundant storage in Azure.",
+      "Monitoring application performance in Azure.",
+      "Implementing security policies in Azure virtual networks."
+    ],
+    "answer": "Providing scalable and redundant storage in Azure."
+  },
+  {
+    "question": "Which Azure tool provides recommendations to improve security, performance, and reliability of Azure resources?",
+    "options": [
+      "Azure Advisor",
+      "Azure Monitor",
+      "Azure Security Center",
+      "Azure Purview"
+    ],
+    "answer": "Azure Advisor"
+  },
+  {
+    "question": "What is the primary advantage of using Azure Functions?",
+    "options": [
+      "Deploying scalable virtual machines in Azure.",
+      "Providing a platform for serverless computing in Azure.",
+      "Providing high availability for applications in Azure.",
+      "Implementing network security in Azure virtual networks."
+    ],
+    "answer": "Providing a platform for serverless computing in Azure."
+  },
+  {
+    "question": "Which Azure tool provides a comprehensive view of application performance, availability, and usage in Azure?",
+    "options": [
+      "Azure Advisor",
+      "Azure Monitor",
+      "Azure Security Center",
+      "Azure Purview"
+    ],
+    "answer": "Azure Monitor"
+  },
+  {
+    "question": "What is a benefit of using Azure Virtual Networks?",
+    "options": [
+      "Providing scalable and redundant storage in Azure.",
+      "Providing network security for Azure resources.",
+      "Monitoring application performance in Azure.",
+      "Implementing security policies in Azure VMs."
+    ],
+    "answer": "Providing network security for Azure resources."
+  },
+  {
+    "question": "What is the primary purpose of Azure Key Vault?",
+    "options": [
+      "Providing high availability for Azure services.",
+      "Securing and managing secrets, certificates, and keys in Azure.",
+      "Providing serverless computing in Azure.",
+      "Implementing monitoring solutions in Azure."
+    ],
+    "answer": "Securing and managing secrets, certificates, and keys in Azure."
+  },
+  {
+    "question": "Which Azure tool provides a central platform to manage security policies, settings, and policy enforcement across Azure resources?",
+    "options": [
+      "Azure Advisor",
+      "Azure Monitor",
+      "Azure Security Center",
+      "Azure Purview"
+    ],
+    "answer": "Azure Security Center"
+  },
+  {
+    "question": "What is a key function of Azure Bastion?",
+    "options": [
+      "Providing a secure connection to Azure Virtual Machines through the Azure portal.",
+      "Monitoring application performance in Azure.",
+      "Providing scalable and redundant storage in Azure.",
+      "Implementing security policies in Azure virtual networks."
+    ],
+    "answer": "Providing a secure connection to Azure Virtual Machines through the Azure portal."
+  },
+  {
+    "question": "What is the main purpose of Azure Purview?",
+    "options": [
+      "Managing costs and resources in Azure.",
+      "Monitoring network security in Azure.",
+      "Capturing and managing data estates across various data sources.",
+      "Implementing security policies in Azure virtual networks."
+    ],
+    "answer": "Capturing and managing data estates across various data sources."
+  },
+  {
+    "question": "What is the main function of Azure Load Balancer?",
+    "options": [
+      "Monitoring application performance in Azure.",
+      "Providing load balancing to distribute network traffic across multiple application instances.",
+      "Implementing security policies in Azure virtual networks.",
+      "Providing scalable and redundant storage in Azure."
+    ],
+    "answer": "Providing load balancing to distribute network traffic across multiple application instances."
+  },
+  {
+    "question": "Which Azure tool offers a comprehensive solution for monitoring, managing, and securing application resources in Azure?",
+    "options": [
+      "Azure Advisor",
+      "Azure Monitor",
+      "Azure Security Center",
+      "Azure Purview"
+    ],
+    "answer": "Azure Monitor"
+  },
+  {
+    "question": "What is an advantage of using Azure SQL Database?",
+    "options": [
+      "Providing scalable and redundant storage in Azure.",
+      "Providing security policies for Azure resources.",
+      "High availability and automatic backups in the cloud.",
+      "Implementing serverless computing in Azure."
+    ],
+    "answer": "High availability and automatic backups in the cloud."
+  },
+  {
+    "question": "Which Azure tool offers recommendations to improve security, performance, and cost optimization of Azure resources?",
+    "options": [
+      "Azure Advisor",
+      "Azure Monitor",
+      "Azure Security Center",
+      "Azure Purview"
+    ],
+    "answer": "Azure Advisor"
+  },
+  {
+    "question": "What is a key function of Azure Container Instances?",
+    "options": [
+      "Deploying virtual machines in Azure.",
+      "Providing container orchestration in Azure.",
+      "Providing high availability for applications in Azure.",
+      "Implementing security policies in Azure virtual networks."
+    ],
+    "answer": "Providing container orchestration in Azure."
+  },
+  {
+    "question": "What is the main purpose of Azure Active Directory?",
+    "options": [
+      "Providing high availability for Azure services.",
+      "Managing cloud resources in Azure.",
+      "Centralized management of identities and access to applications in the cloud.",
+      "Implementing security policies in Azure virtual networks."
+    ],
+    "answer": "Centralized management of identities and access to applications in the cloud."
+  },
+  {
+    "question": "What is a key function of Azure Kubernetes Service (AKS)?",
+    "options": [
+      "Deploying virtual machines in Azure.",
+      "Providing high availability for applications in Azure.",
+      "Providing container orchestration in Azure.",
+      "Implementing security policies in Azure virtual networks."
+    ],
+    "answer": "Providing container orchestration in Azure."
+  },
+  {
+    "question": "What is the main purpose of Azure Cosmos DB?",
+    "options": [
+      "Providing highly scalable and redundant storage in Azure.",
+      "Providing network security for Azure resources.",
+      "Managing and providing databases with global distribution and horizontal scaling.",
+      "Implementing security policies in Azure virtual networks."
+    ],
+    "answer": "Managing and providing databases with global distribution and horizontal scaling."
+  },
+  {
+    "question": "Which Azure tool offers a comprehensive platform for monitoring, diagnosing, and resolving network issues in Azure?",
+    "options": [
+      "Azure Advisor",
+      "Azure Monitor",
+      "Azure Network Watcher",
+      "Azure Purview"
+    ],
+    "answer": "Azure Network Watcher"
+  },
+  {
+    "question": "What is a key function of Azure Firewall?",
+    "options": [
+      "Providing scalable and redundant storage in Azure.",
+      "Providing network security for Azure resources.",
+      "Monitoring application performance in Azure.",
+      "Implementing security policies in Azure virtual networks."
+    ],
+    "answer": "Providing network security for Azure resources."
+  },
+  {
+    "question": "Which Azure tool provides a central platform for monitoring, managing, and securing security policies across Azure?",
+    "options": [
+      "Azure Advisor",
+      "Azure Monitor",
+      "Azure Security Center",
+      "Azure Purview"
+    ],
+    "answer": "Azure Security Center"
+  },
+  {
+    "question": "What is a primary benefit of using Azure Blob Storage?",
+    "options": [
+      "Providing high availability for Azure services.",
+      "Providing scalable and redundant storage in Azure.",
+      "Providing network security for Azure resources.",
+      "Implementing serverless computing in Azure."
+    ],
+    "answer": "Providing scalable and redundant storage in Azure."
+  },
+  {
+    "question": "What is a key function of Azure Traffic Manager?",
+    "options": [
+      "Providing network security for Azure resources.",
+      "Providing scalable and redundant storage in Azure.",
+      "Monitoring application performance in Azure.",
+      "Load balancing and global traffic management for applications across different Azure regions."
+    ],
+    "answer": "Load balancing and global traffic management for applications across different Azure regions."
+  },
+  {
+    "question": "What is the primary purpose of Azure DevOps?",
+    "options": [
+      "Providing network security in Azure.",
+      "Providing a platform for serverless computing in Azure.",
+      "Providing tools for collaboration and software deployment.",
+      "Implementing security policies in Azure virtual networks."
+    ],
+    "answer": "Providing tools for collaboration and software deployment."
+  },
+  {
+    "question": "What is an advantage of using Azure ExpressRoute?",
+    "options": [
+      "Providing high availability for Azure services.",
+      "Private high-bandwidth connection between on-premises infrastructure and Azure.",
+      "Providing scalable and redundant storage in Azure.",
+      "Implementing serverless computing in Azure."
+    ],
+    "answer": "Private high-bandwidth connection between on-premises infrastructure and Azure."
+  },
+  {
+    "question": "Which Azure tool provides full monitoring and management of IoT devices in Azure?",
+    "options": [
+      "Azure Advisor",
+      "Azure IoT Hub",
+      "Azure Security Center",
+      "Azure Purview"
+    ],
+    "answer": "Azure IoT Hub"
+  },
+  {
+    "question": "What is a key function of Azure App Service?",
+    "options": [
+      "Providing high availability virtual machines in Azure.",
+      "Providing network security in Azure.",
+      "Providing platform services for developing, deploying, and scaling web applications in Azure.",
+      "Implementing security policies in Azure virtual networks."
+    ],
+    "answer": "Providing platform services for developing, deploying, and scaling web applications in Azure."
+  },
+  {
+    "question": "What is a primary benefit of using Azure Logic Apps?",
+    "options": [
+      "Deploying scalable virtual machines in Azure.",
+      "Providing high availability for applications in Azure.",
+      "Automating integration and workflow orchestration in Azure.",
+      "Implementing security policies in Azure virtual networks."
+    ],
+    "answer": "Automating integration and workflow orchestration in Azure."
+  },
+  {
+    "question": "What is the main purpose of Azure Functions?",
+    "options": [
+      "Deploying scalable virtual machines in Azure.",
+      "Providing a platform for serverless computing in Azure.",
+      "Providing high availability for applications in Azure.",
+      "Implementing security policies in Azure virtual networks."
+    ],
+    "answer": "Providing a platform for serverless computing in Azure."
+  },
+  {
+    "question": "What is a key function of Azure Cosmos DB?",
+    "options": [
+      "Providing highly scalable and redundant storage in Azure.",
+      "Providing network security for Azure resources.",
+      "Managing and providing databases with global distribution and horizontal scaling.",
+      "Implementing security policies in Azure virtual networks."
+    ],
+    "answer": "Managing and providing databases with global distribution and horizontal scaling."
+  },
+  {
+    "question": "Which Azure tool offers a comprehensive platform for monitoring, diagnosing, and resolving network issues in Azure?",
+    "options": [
+      "Azure Advisor",
+      "Azure Monitor",
+      "Azure Network Watcher",
+      "Azure Purview"
+    ],
+    "answer": "Azure Network Watcher"
+  },
+  {
+    "question": "What is a key function of Azure Firewall?",
+    "options": [
+      "Providing scalable and redundant storage in Azure.",
+      "Providing network security for Azure resources.",
+      "Monitoring application performance in Azure.",
+      "Implementing security policies in Azure virtual networks."
+    ],
+    "answer": "Providing network security for Azure resources."
+  },
+  {
+    "question": "Which Azure tool provides a central platform for monitoring, managing, and securing security policies across Azure?",
+    "options": [
+      "Azure Advisor",
+      "Azure Monitor",
+      "Azure Security Center",
+      "Azure Purview"
+    ],
+    "answer": "Azure Security Center"
+  },
+  {
+    "question": "What is a primary benefit of using Azure Blob Storage?",
+    "options": [
+      "Providing high availability for Azure services.",
+      "Providing scalable and redundant storage in Azure.",
+      "Providing network security for Azure resources.",
+      "Implementing serverless computing in Azure."
+    ],
+    "answer": "Providing scalable and redundant storage in Azure."
+  },
+  {
+    "question": "What is a key function of Azure Traffic Manager?",
+    "options": [
+      "Providing network security for Azure resources.",
+      "Providing scalable and redundant storage in Azure.",
+      "Monitoring application performance in Azure.",
+      "Load balancing and global traffic management for applications across different Azure regions."
+    ],
+    "answer": "Load balancing and global traffic management for applications across different Azure regions."
+  },
+  {
+    "question": "What is the primary purpose of Azure DevOps?",
+    "options": [
+      "Providing network security in Azure.",
+      "Providing a platform for serverless computing in Azure.",
+      "Providing tools for collaboration and software deployment.",
+      "Implementing security policies in Azure virtual networks."
+    ],
+    "answer": "Providing tools for collaboration and software deployment."
+  },
+  {
+    "question": "What is an advantage of using Azure ExpressRoute?",
+    "options": [
+      "Providing high availability for Azure services.",
+      "Private high-bandwidth connection between on-premises infrastructure and Azure.",
+      "Providing scalable and redundant storage in Azure.",
+      "Implementing serverless computing in Azure."
+    ],
+    "answer": "Private high-bandwidth connection between on-premises infrastructure and Azure."
+  },
+  {
+    "question": "Which Azure tool provides full monitoring and management of IoT devices in Azure?",
+    "options": [
+      "Azure Advisor",
+      "Azure IoT Hub",
+      "Azure Security Center",
+      "Azure Purview"
+    ],
+    "answer": "Azure IoT Hub"
+  },
+  {
+    "question": "What is a key function of Azure App Service?",
+    "options": [
+      "Providing high availability virtual machines in Azure.",
+      "Providing network security in Azure.",
+      "Providing platform services for developing, deploying, and scaling web applications in Azure.",
+      "Implementing security policies in Azure virtual networks."
+    ],
+    "answer": "Providing platform services for developing, deploying, and scaling web applications in Azure."
+  },
+  {
+    "question": "What is a primary benefit of using Azure Logic Apps?",
+    "options": [
+      "Deploying scalable virtual machines in Azure.",
+      "Providing high availability for applications in Azure.",
+      "Automating integration and workflow orchestration in Azure.",
+      "Implementing security policies in Azure virtual networks."
+    ],
+    "answer": "Automating integration and workflow orchestration in Azure."
+  },
+  {
+    "question": "What is the main purpose of Azure Functions?",
+    "options": [
+      "Deploying scalable virtual machines in Azure.",
+      "Providing a platform for serverless computing in Azure.",
+      "Providing high availability for applications in Azure.",
+      "Implementing security policies in Azure virtual networks."
+    ],
+    "answer": "Providing a platform for serverless computing in Azure."
+  },
+  {
+    "question": "What is a key function of Azure Cosmos DB?",
+    "options": [
+      "Providing highly scalable and redundant storage in Azure.",
+      "Providing network security for Azure resources.",
+      "Managing and providing databases with global distribution and horizontal scaling.",
+      "Implementing security policies in Azure virtual networks."
+    ],
+    "answer": "Managing and providing databases with global distribution and horizontal scaling."
+  },
+  {
+    "question": "What is the main function of Azure Event Grid?",
+    "options": [
+      "Managing and automating workflows in Azure.",
+      "Monitoring application performance in Azure.",
+      "Providing scalable and redundant storage in Azure.",
+      "Implementing security policies in Azure virtual networks."
+    ],
+    "answer": "Managing and automating workflows in Azure."
+  },
+  {
+    "question": "Which Azure service provides a fully managed messaging service for event-driven applications?",
+    "options": [
+      "Azure Event Hubs",
+      "Azure Service Bus",
+      "Azure Event Grid",
+      "Azure Logic Apps"
+    ],
+    "answer": "Azure Event Hubs"
+  },
+  {
+    "question": "What is the primary purpose of Azure Databricks?",
+    "options": [
+      "Providing scalable and redundant storage in Azure.",
+      "Managing and analyzing big data with Apache Spark-based analytics service.",
+      "Monitoring application performance in Azure.",
+      "Implementing security policies in Azure virtual networks."
+    ],
+    "answer": "Managing and analyzing big data with Apache Spark-based analytics service."
+  },
+  {
+    "question": "Which Azure service is designed for real-time analytics and data warehousing?",
+    "options": [
+      "Azure Databricks",
+      "Azure Synapse Analytics",
+      "Azure Data Factory",
+      "Azure Stream Analytics"
+    ],
+    "answer": "Azure Synapse Analytics"
+  },
+  {
+    "question": "What is the main purpose of Azure Data Factory?",
+    "options": [
+      "Providing scalable and redundant storage in Azure.",
+      "Automating the process of transforming and moving data between different sources and destinations.",
+      "Monitoring application performance in Azure.",
+      "Implementing security policies in Azure virtual networks."
+    ],
+    "answer": "Automating the process of transforming and moving data between different sources and destinations."
+  },
+  {
+    "question": "Which Azure service provides a serverless data integration and orchestration service?",
+    "options": [
+      "Azure Data Factory",
+      "Azure Databricks",
+      "Azure Synapse Analytics",
+      "Azure Stream Analytics"
+    ],
+    "answer": "Azure Data Factory"
+  },
+  {
+    "question": "What is the primary function of Azure Synapse Analytics?",
+    "options": [
+      "Real-time analytics and data warehousing in Azure.",
+      "Monitoring application performance in Azure.",
+      "Providing scalable and redundant storage in Azure.",
+      "Implementing security policies in Azure virtual networks."
+    ],
+    "answer": "Real-time analytics and data warehousing in Azure."
+  },
+  {
+    "question": "Which Azure service enables the creation, scheduling, and orchestration of data workflows?",
+    "options": [
+      "Azure Data Factory",
+      "Azure Databricks",
+      "Azure Synapse Analytics",
+      "Azure Stream Analytics"
+    ],
+    "answer": "Azure Data Factory"
+  },
+  {
+    "question": "What is the main purpose of Azure Stream Analytics?",
+    "options": [
+      "Real-time analytics and data warehousing in Azure.",
+      "Monitoring application performance in Azure.",
+      "Providing scalable and redundant storage in Azure.",
+      "Analyzing streaming data from devices and sensors in real-time."
+    ],
+    "answer": "Analyzing streaming data from devices and sensors in real-time."
+  },
+  {
+    "question": "Which Azure service provides real-time analytics on streaming data?",
+    "options": [
+      "Azure Event Grid",
+      "Azure Event Hubs",
+      "Azure Stream Analytics",
+      "Azure Logic Apps"
+    ],
+    "answer": "Azure Stream Analytics"
+  },
+  {
+    "question": "What is the primary function of Azure Logic Apps?",
+    "options": [
+      "Automating workflows and integrating applications and data across Azure services and third-party services.",
+      "Monitoring application performance in Azure.",
+      "Providing scalable and redundant storage in Azure.",
+      "Implementing security policies in Azure virtual networks."
+    ],
+    "answer": "Automating workflows and integrating applications and data across Azure services and third-party services."
+  },
+  {
+    "question": "Which Azure service is used for serverless computing and building workflows?",
+    "options": [
+      "Azure Functions",
+      "Azure Logic Apps",
+      "Azure Event Grid",
+      "Azure Event Hubs"
+    ],
+    "answer": "Azure Logic Apps"
+  },
+  {
+    "question": "What is the main purpose of Azure Kubernetes Service (AKS)?",
+    "options": [
+      "Deploying virtual machines in Azure.",
+      "Providing high availability for applications in Azure.",
+      "Managing containerized applications with Kubernetes orchestration in Azure.",
+      "Implementing security policies in Azure virtual networks."
+    ],
+    "answer": "Managing containerized applications with Kubernetes orchestration in Azure."
+  },
+  {
+    "question": "Which Azure service is designed for container orchestration and management?",
+    "options": [
+      "Azure Container Instances",
+      "Azure Kubernetes Service (AKS)",
+      "Azure Service Fabric",
+      "Azure App Service"
+    ],
+    "answer": "Azure Kubernetes Service (AKS)"
+  },
+  {
+    "question": "What is the primary function of Azure Arc?",
+    "options": [
+      "Monitoring application performance in Azure.",
+      "Extending Azure management and services to any infrastructure.",
+      "Providing scalable and redundant storage in Azure.",
+      "Implementing security policies in Azure virtual networks."
+    ],
+    "answer": "Extending Azure management and services to any infrastructure."
+  },
+  {
+    "question": "Which Azure service enables management and governance of resources across on-premises, multi-cloud, and edge environments?",
+    "options": [
+      "Azure Monitor",
+      "Azure Arc",
+      "Azure Security Center",
+      "Azure Purview"
+    ],
+    "answer": "Azure Arc"
+  },
+  {
+    "question": "What is the main purpose of Azure Security Center?",
+    "options": [
+      "Providing high availability for Azure services.",
+      "Monitoring application performance in Azure.",
+      "Centralized security management and threat protection for Azure resources.",
+      "Implementing security policies in Azure virtual networks."
+    ],
+    "answer": "Centralized security management and threat protection for Azure resources."
+  },
+  {
+    "question": "Which Azure service provides unified security management and advanced threat protection across hybrid cloud workloads?",
+    "options": [
+      "Azure Monitor",
+      "Azure Arc",
+      "Azure Security Center",
+      "Azure Purview"
+    ],
+    "answer": "Azure Security Center"
+  },
+  {
+    "question": "What is the primary function of Azure Firewall?",
+    "options": [
+      "Providing scalable and redundant storage in Azure.",
+      "Protecting Azure resources by filtering and logging incoming and outgoing network traffic.",
+      "Monitoring application performance in Azure.",
+      "Implementing security policies in Azure virtual networks."
+    ],
+    "answer": "Protecting Azure resources by filtering and logging incoming and outgoing network traffic."
+  },
+  {
+    "question": "Which Azure service provides network security for Azure resources?",
+    "options": [
+      "Azure Firewall",
+      "Azure Bastion",
+      "Azure VPN Gateway",
+      "Azure Application Gateway"
+    ],
+    "answer": "Azure Firewall"
+  },
+  {
+    "question": "What is the main purpose of Azure Purview?",
+    "options": [
+      "Managing and optimizing costs in Azure.",
+      "Monitoring network security in Azure.",
+      "Capturing and managing data across various data sources.",
+      "Implementing security policies in Azure virtual networks."
+    ],
+    "answer": "Capturing and managing data across various data sources."
+  },
+  {
+    "question": "Which Azure service provides unified data governance and data cataloging capabilities across hybrid data sources?",
+    "options": [
+      "Azure Monitor",
+      "Azure Arc",
+      "Azure Security Center",
+      "Azure Purview"
+    ],
+    "answer": "Azure Purview"
+  },
+  {
+    "question": "What is the primary benefit of using Azure Sentinel?",
+    "options": [
+      "Monitoring application performance in Azure.",
+      "Providing centralized security information and event management (SIEM) system.",
+      "Providing scalable and redundant storage in Azure.",
+      "Implementing security policies in Azure virtual networks."
+    ],
+    "answer": "Providing centralized security information and event management (SIEM) system."
+  },
+  {
+    "question": "Which Azure service provides intelligent security analytics and threat intelligence across the enterprise?",
+    "options": [
+      "Azure Monitor",
+      "Azure Arc",
+      "Azure Security Center",
+      "Azure Sentinel"
+    ],
+    "answer": "Azure Sentinel"
+  },
+  {
+    "question": "What is the primary function of Azure Monitor?",
+    "options": [
+      "Monitoring application performance and health in Azure.",
+      "Providing scalable and redundant storage in Azure.",
+      "Managing and securing Azure resources.",
+      "Implementing security policies in Azure virtual networks."
+    ],
+    "answer": "Monitoring application performance and health in Azure."
+  },
+  {
+    "question": "Which Azure service provides comprehensive monitoring and analytics for applications, virtual machines, and other Azure services?",
+    "options": [
+      "Azure Advisor",
+      "Azure Monitor",
+      "Azure Security Center",
+      "Azure Purview"
+    ],
+    "answer": "Azure Monitor"
+  },
+  {
+    "question": "What is the main purpose of Azure Advisor?",
+    "options": [
+      "Providing high availability for Azure services.",
+      "Analyzing Azure resources to provide recommendations for improving security, performance, and cost.",
+      "Monitoring application performance in Azure.",
+      "Implementing security policies in Azure virtual networks."
+    ],
+    "answer": "Analyzing Azure resources to provide recommendations for improving security, performance, and cost."
+  },
+  {
+    "question": "Which Azure service offers personalized recommendations for optimizing Azure resources?",
+    "options": [
+      "Azure Advisor",
+      "Azure Monitor",
+      "Azure Security Center",
+      "Azure Purview"
+    ],
+    "answer": "Azure Advisor"
+  },
+  {
+    "question": "What is the primary function of Azure Bastion?",
+    "options": [
+      "Providing scalable and redundant storage in Azure.",
+      "Securely connecting to virtual machines in Azure without exposing public IP addresses.",
+      "Monitoring application performance in Azure.",
+      "Implementing security policies in Azure virtual networks."
+    ],
+    "answer": "Securely connecting to virtual machines in Azure without exposing public IP addresses."
+  },
+  {
+    "question": "Which Azure service provides secure RDP and SSH access to virtual machines?",
+    "options": [
+      "Azure Bastion",
+      "Azure VPN Gateway",
+      "Azure Application Gateway",
+      "Azure Traffic Manager"
+    ],
+    "answer": "Azure Bastion"
+  },
+  {
+    "question": "What is the main purpose of Azure CDN (Content Delivery Network)?",
+    "options": [
+      "Monitoring application performance in Azure.",
+      "Improving website load times and responsiveness by caching content at strategic locations.",
+      "Providing scalable and redundant storage in Azure.",
+      "Implementing security policies in Azure virtual networks."
+    ],
+    "answer": "Improving website load times and responsiveness by caching content at strategic locations."
+  },
+  {
+    "question": "Which Azure service optimizes the delivery of web content to users by caching content at edge locations?",
+    "options": [
+      "Azure CDN",
+      "Azure Front Door",
+      "Azure Application Gateway",
+      "Azure Traffic Manager"
+    ],
+    "answer": "Azure CDN"
+  },
+  {
+    "question": "What is the primary function of Azure Front Door?",
+    "options": [
+      "Improving website load times and responsiveness by caching content at edge locations.",
+      "Monitoring application performance in Azure.",
+      "Providing scalable and redundant storage in Azure.",
+      "Implementing security policies in Azure virtual networks."
+    ],
+    "answer": "Improving website load times and responsiveness by caching content at edge locations."
+  },
+  {
+    "question": "Which Azure service provides global HTTP load balancing and application acceleration?",
+    "options": [
+      "Azure CDN",
+      "Azure Front Door",
+      "Azure Application Gateway",
+      "Azure Traffic Manager"
+    ],
+    "answer": "Azure Front Door"
+  },
+  {
+    "question": "What is the main purpose of Azure API Management?",
+    "options": [
+      "Monitoring application performance in Azure.",
+      "Providing scalable and redundant storage in Azure.",
+      "Centralizing control and protection of APIs.",
+      "Implementing security policies in Azure virtual networks."
+    ],
+    "answer": "Centralizing control and protection of APIs."
+  },
+  {
+    "question": "Which Azure service provides a unified platform for managing, publishing, and securing APIs?",
+    "options": [
+      "Azure API Management",
+      "Azure Logic Apps",
+      "Azure Service Bus",
+      "Azure Functions"
+    ],
+    "answer": "Azure API Management"
+  },
+  {
+    "question": "What is the primary function of Azure Key Vault?",
+    "options": [
+      "Monitoring application performance in Azure.",
+      "Securely storing and managing cryptographic keys, secrets, and certificates.",
+      "Providing scalable and redundant storage in Azure.",
+      "Implementing security policies in Azure virtual networks."
+    ],
+    "answer": "Securely storing and managing cryptographic keys, secrets, and certificates."
+  },
+  {
+    "question": "Which Azure service provides centralized secrets management, secure key management, and certificate management?",
+    "options": [
+      "Azure Key Vault",
+      "Azure AD Identity Protection",
+      "Azure Security Center",
+      "Azure Bastion"
+    ],
+    "answer": "Azure Key Vault"
+  },
+  {
+    "question": "What is the main purpose of Azure Active Directory (Azure AD)?",
+    "options": [
+      "Monitoring application performance in Azure.",
+      "Securely storing and managing cryptographic keys, secrets, and certificates.",
+      "Centralized identity and access management for Azure resources and applications.",
+      "Implementing security policies in Azure virtual networks."
+    ],
+    "answer": "Centralized identity and access management for Azure resources and applications."
+  },
+  {
+    "question": "Which Azure service provides identity and access management for Azure services and applications?",
+    "options": [
+      "Azure Key Vault",
+      "Azure AD Identity Protection",
+      "Azure Active Directory (Azure AD)",
+      "Azure Bastion"
+    ],
+    "answer": "Azure Active Directory (Azure AD)"
+  },
+  {
+    "question": "What is the primary function of Azure Virtual WAN?",
+    "options": [
+      "Monitoring application performance in Azure.",
+      "Providing scalable and redundant storage in Azure.",
+      "Connecting branch offices and Azure resources using a unified wide area network (WAN).",
+      "Implementing security policies in Azure virtual networks."
+    ],
+    "answer": "Connecting branch offices and Azure resources using a unified wide area network (WAN)."
+  },
+  {
+    "question": "Which Azure service provides optimized and automated branch-to-branch connectivity and branch-to-Azure connectivity?",
+    "options": [
+      "Azure Virtual WAN",
+      "Azure VPN Gateway",
+      "Azure Bastion",
+      "Azure ExpressRoute"
+    ],
+    "answer": "Azure Virtual WAN"
+  },
+  {
+    "question": "What is the main purpose of Azure Load Balancer?",
+    "options": [
+      "Monitoring application performance in Azure.",
+      "Improving website load times and responsiveness by caching content at edge locations.",
+      "Balancing incoming network traffic across multiple Azure resources to ensure high availability and reliability.",
+      "Implementing security policies in Azure virtual networks."
+    ],
+    "answer": "Balancing incoming network traffic across multiple Azure resources to ensure high availability and reliability."
+  },
+  {
+    "question": "Which Azure service provides high availability and network performance by distributing incoming traffic across Azure resources?",
+    "options": [
+      "Azure CDN",
+      "Azure Front Door",
+      "Azure Load Balancer",
+      "Azure Traffic Manager"
+    ],
+    "answer": "Azure Load Balancer"
+  },
+  {
+    "question": "What is the primary function of Azure Traffic Manager?",
+    "options": [
+      "Monitoring application performance in Azure.",
+      "Improving website load times and responsiveness by caching content at edge locations.",
+      "Load balancing and global traffic management for applications across different Azure regions.",
+      "Implementing security policies in Azure virtual networks."
+    ],
+    "answer": "Load balancing and global traffic management for applications across different Azure regions."
+  },
+  {
+    "question": "Which Azure service provides DNS-based traffic load balancing and global distribution of user requests?",
+    "options": [
+      "Azure CDN",
+      "Azure Front Door",
+      "Azure Application Gateway",
+      "Azure Traffic Manager"
+    ],
+    "answer": "Azure Traffic Manager"
+  },
+  {
+    "question": "What is the primary benefit of using Azure Functions?",
+    "options": [
+      "Deploying scalable virtual machines in Azure.",
+      "Providing a platform for serverless computing in Azure.",
+      "Automating integration and workflow orchestration in Azure.",
+      "Implementing security policies in Azure virtual networks."
+    ],
+    "answer": "Providing a platform for serverless computing in Azure."
+  },
+  {
+    "question": "Which Azure service allows developers to run event-triggered code without managing infrastructure?",
+    "options": [
+      "Azure Functions",
+      "Azure Logic Apps",
+      "Azure Event Grid",
+      "Azure Event Hubs"
+    ],
+    "answer": "Azure Functions"
+  },
+  {
+    "question": "What is the primary purpose of Azure Cognitive Services?",
+    "options": [
+      "Monitoring application performance in Azure.",
+      "Providing scalable and redundant storage in Azure.",
+      "Adding AI capabilities such as vision, speech, language understanding, and more to applications.",
+      "Implementing security policies in Azure virtual networks."
+    ],
+    "answer": "Adding AI capabilities such as vision, speech, language understanding, and more to applications."
+  },
+  {
+    "question": "Which Azure service provides APIs for adding AI capabilities to applications, such as vision and speech recognition?",
+    "options": [
+      "Azure Cognitive Services",
+      "Azure Machine Learning",
+      "Azure Bot Service",
+      "Azure Functions"
+    ],
+    "answer": "Azure Cognitive Services"
+  },
+  {
+    "question": "What is the primary function of Azure IoT Hub?",
+    "options": [
+      "Deploying scalable virtual machines in Azure.",
+      "Providing a platform for serverless computing in Azure.",
+      "Monitoring and managing IoT devices, and securely connecting them to Azure services.",
+      "Implementing security policies in Azure virtual networks."
+    ],
+    "answer": "Monitoring and managing IoT devices, and securely connecting them to Azure services."
+  },
+  {
+    "question": "Which Azure service enables secure and scalable communication between IoT devices and Azure services?",
+    "options": [
+      "Azure Advisor",
+      "Azure IoT Hub",
+      "Azure Security Center",
+      "Azure Purview"
+    ],
+    "answer": "Azure IoT Hub"
+  },
+  {
+    "question": "What is the main purpose of Azure App Service?",
+    "options": [
+      "Providing high availability virtual machines in Azure.",
+      "Providing network security in Azure.",
+      "Providing platform services for developing, deploying, and scaling web applications in Azure.",
+      "Implementing security policies in Azure virtual networks."
+    ],
+    "answer": "Providing platform services for developing, deploying, and scaling web applications in Azure."
+  },
+  {
+    "question": "Which Azure service offers a fully managed platform for building, deploying, and scaling web apps?",
+    "options": [
+      "Azure Functions",
+      "Azure Logic Apps",
+      "Azure App Service",
+      "Azure Container Instances"
+    ],
+    "answer": "Azure App Service"
+  },
+  {
+    "question": "What is the primary benefit of using Azure Container Instances?",
+    "options": [
+      "Deploying and managing virtual machines in Azure.",
+      "Building and deploying containerized applications without managing virtual machines.",
+      "Automating data integration and orchestration in Azure.",
+      "Implementing security policies in Azure virtual networks."
+    ],
+    "answer": "Building and deploying containerized applications without managing virtual machines."
+  },
+  {
+    "question": "Which Azure service provides the fastest and simplest way to run containers without managing servers?",
+    "options": [
+      "Azure Kubernetes Service (AKS)",
+      "Azure Container Instances",
+      "Azure Service Fabric",
+      "Azure App Service"
+    ],
+    "answer": "Azure Container Instances"
+  },
+  {
+    "question": "What is the main purpose of Azure Service Fabric?",
+    "options": [
+      "Providing high availability virtual machines in Azure.",
+      "Monitoring application performance in Azure.",
+      "Building and managing microservices applications in Azure.",
+      "Implementing security policies in Azure virtual networks."
+    ],
+    "answer": "Building and managing microservices applications in Azure."
+  },
+  {
+    "question": "Which Azure service is designed for building and managing scalable microservices applications?",
+    "options": [
+      "Azure Kubernetes Service (AKS)",
+      "Azure Service Fabric",
+      "Azure App Service",
+      "Azure Container Instances"
+    ],
+    "answer": "Azure Service Fabric"
+  },
+  {
+    "question": "What is the primary function of Azure Sphere?",
+    "options": [
+      "Providing high availability for Azure services.",
+      "Securing and protecting IoT devices with a highly secure, connected microcontroller.",
+      "Monitoring application performance in Azure.",
+      "Implementing security policies in Azure virtual networks."
+    ],
+    "answer": "Securing and protecting IoT devices with a highly secure, connected microcontroller."
+  },
+  {
+    "question": "Which Azure service provides a secure foundation for IoT devices with a focus on security?",
+    "options": [
+      "Azure Advisor",
+      "Azure IoT Hub",
+      "Azure Security Center",
+      "Azure Sphere"
+    ],
+    "answer": "Azure Sphere"
+  },
+  {
+    "question": "What is the main purpose of Azure DevOps?",
+    "options": [
+      "Monitoring application performance in Azure.",
+      "Providing scalable and redundant storage in Azure.",
+      "Supporting the entire development lifecycle with tools for planning, developing, testing, and deploying applications.",
+      "Implementing security policies in Azure virtual networks."
+    ],
+    "answer": "Supporting the entire development lifecycle with tools for planning, developing, testing, and deploying applications."
+  },
+  {
+    "question": "Which Azure service provides a set of modern DevOps services for planning, developing, testing, and deploying applications?",
+    "options": [
+      "Azure Monitor",
+      "Azure DevOps",
+      "Azure Security Center",
+      "Azure Purview"
+    ],
+    "answer": "Azure DevOps"
+  },
+  {
+    "question": "What is the primary function of Azure Backup?",
+    "options": [
+      "Providing high availability virtual machines in Azure.",
+      "Monitoring application performance in Azure.",
+      "Backing up and restoring data for Azure services and on-premises servers.",
+      "Implementing security policies in Azure virtual networks."
+    ],
+    "answer": "Backing up and restoring data for Azure services and on-premises servers."
+  },
+  {
+    "question": "Which Azure service provides backup and restore capabilities for Azure virtual machines, on-premises servers, and Azure SQL Database?",
+    "options": [
+      "Azure Backup",
+      "Azure Site Recovery",
+      "Azure Monitor",
+      "Azure Logic Apps"
+    ],
+    "answer": "Azure Backup"
+  },
+  {
+    "question": "What is the main purpose of Azure Site Recovery?",
+    "options": [
+      "Monitoring application performance in Azure.",
+      "Providing high availability virtual machines in Azure.",
+      "Disaster recovery and business continuity by orchestrating replication and failover of virtual machines and applications.",
+      "Implementing security policies in Azure virtual networks."
+    ],
+    "answer": "Disaster recovery and business continuity by orchestrating replication and failover of virtual machines and applications."
+  },
+  {
+    "question": "Which Azure service orchestrates replication, failover, and recovery of virtual machines and applications for disaster recovery?",
+    "options": [
+      "Azure Backup",
+      "Azure Site Recovery",
+      "Azure Monitor",
+      "Azure Logic Apps"
+    ],
+    "answer": "Azure Site Recovery"
+  },
+  {
+    "question": "What is the primary benefit of using Azure File Sync?",
+    "options": [
+      "Monitoring application performance in Azure.",
+      "Synchronizing files between on-premises servers and Azure Files.",
+      "Providing scalable and redundant storage in Azure.",
+      "Implementing security policies in Azure virtual networks."
+    ],
+    "answer": "Synchronizing files between on-premises servers and Azure Files."
+  },
+  {
+    "question": "Which Azure service synchronizes files between on-premises servers and Azure Files?",
+    "options": [
+      "Azure Monitor",
+      "Azure File Sync",
+      "Azure Security Center",
+      "Azure Purview"
+    ],
+    "answer": "Azure File Sync"
+  },
+  {
+    "question": "What is the main purpose of Azure Shared Disks?",
+    "options": [
+      "Providing high availability virtual machines in Azure.",
+      "Monitoring application performance in Azure.",
+      "Enabling multiple virtual machines to attach to the same managed disks concurrently.",
+      "Implementing security policies in Azure virtual networks."
+    ],
+    "answer": "Enabling multiple virtual machines to attach to the same managed disks concurrently."
+  },
+  {
+    "question": "Which Azure service allows multiple virtual machines to attach to the same managed disks concurrently?",
+    "options": [
+      "Azure Backup",
+      "Azure Site Recovery",
+      "Azure Shared Disks",
+      "Azure File Sync"
+    ],
+    "answer": "Azure Shared Disks"
+  },
+  {
+    "question": "What is the primary function of Azure ExpressRoute?",
+    "options": [
+      "Monitoring application performance in Azure.",
+      "Connecting on-premises networks to Azure securely and privately.",
+      "Providing scalable and redundant storage in Azure.",
+      "Implementing security policies in Azure virtual networks."
+    ],
+    "answer": "Connecting on-premises networks to Azure securely and privately."
+  },
+  {
+    "question": "Which Azure service provides dedicated private network connections between Azure data centers and on-premises networks?",
+    "options": [
+      "Azure ExpressRoute",
+      "Azure VPN Gateway",
+      "Azure Bastion",
+      "Azure Virtual WAN"
+    ],
+    "answer": "Azure ExpressRoute"
+  },
+  {
+    "question": "What is the main purpose of Azure VPN Gateway?",
+    "options": [
+      "Monitoring application performance in Azure.",
+      "Securely connecting virtual networks in Azure over the internet.",
+      "Providing scalable and redundant storage in Azure.",
+      "Implementing security policies in Azure virtual networks."
+    ],
+    "answer": "Securely connecting virtual networks in Azure over the internet."
+  },
+  {
+    "question": "Which Azure service provides secure, encrypted connections between virtual networks in Azure and on-premises networks?",
+    "options": [
+      "Azure ExpressRoute",
+      "Azure VPN Gateway",
+      "Azure Bastion",
+      "Azure Virtual WAN"
+    ],
+    "answer": "Azure VPN Gateway"
+  },
+  {
+    "question": "What is the primary function of Azure DNS?",
+    "options": [
+      "Monitoring application performance in Azure.",
+      "Providing scalable and redundant storage in Azure.",
+      "Hosting domain names and providing name resolution using Microsoft Azure infrastructure.",
+      "Implementing security policies in Azure virtual networks."
+    ],
+    "answer": "Hosting domain names and providing name resolution using Microsoft Azure infrastructure."
+  },
+  {
+    "question": "Which Azure service hosts domain names and provides DNS resolution using Microsoft Azure infrastructure?",
+    "options": [
+      "Azure Monitor",
+      "Azure DNS",
+      "Azure Security Center",
+      "Azure Purview"
+    ],
+    "answer": "Azure DNS"
+  },
+  {
+    "question": "What is the main purpose of Azure Firewall Manager?",
+    "options": [
+      "Monitoring application performance in Azure.",
+      "Providing centralized security management for Azure virtual networks.",
+      "Protecting Azure resources by filtering and logging incoming and outgoing network traffic.",
+      "Implementing security policies across multiple Azure Firewall instances."
+    ],
+    "answer": "Implementing security policies across multiple Azure Firewall instances."
+  },
+  {
+    "question": "Which Azure service provides centralized security management and policy enforcement for Azure Firewall instances?",
+    "options": [
+      "Azure Monitor",
+      "Azure Arc",
+      "Azure Security Center",
+      "Azure Firewall Manager"
+    ],
+    "answer": "Azure Firewall Manager"
+  },
+  {
+    "question": "What is the primary benefit of using Azure Resource Manager (ARM)?",
+    "options": [
+      "Monitoring application performance in Azure.",
+      "Managing and organizing Azure resources in a consistent and scalable manner.",
+      "Providing scalable and redundant storage in Azure.",
+      "Implementing security policies in Azure virtual networks."
+    ],
+    "answer": "Managing and organizing Azure resources in a consistent and scalable manner."
+  },
+  {
+    "question": "Which Azure service provides a management layer that allows you to create, update, and delete Azure resources?",
+    "options": [
+      "Azure Resource Manager (ARM)",
+      "Azure Automation",
+      "Azure Blueprints",
+      "Azure Lighthouse"
+    ],
+    "answer": "Azure Resource Manager (ARM)"
+  },
+  {
+    "question": "What is the main purpose of Azure Lighthouse?",
+    "options": [
+      "Monitoring application performance in Azure.",
+      "Providing scalable and redundant storage in Azure.",
+      "Managing Azure resources from a single, unified control plane.",
+      "Implementing security policies in Azure virtual networks."
+    ],
+    "answer": "Managing Azure resources from a single, unified control plane."
+  },
+  {
+    "question": "Which Azure service allows service providers to manage Azure resources across multiple customers?",
+    "options": [
+      "Azure Monitor",
+      "Azure Arc",
+      "Azure Security Center",
+      "Azure Lighthouse"
+    ],
+    "answer": "Azure Lighthouse"
+  },
+  {
+    "question": "What is the primary function of Azure Purview?",
+    "options": [
+      "Monitoring application performance in Azure.",
+      "Providing centralized management and governance for all Azure resources.",
+      "Discovering and mapping data across cloud and on-premises data environments.",
+      "Implementing security policies in Azure virtual networks."
+    ],
+    "answer": "Discovering and mapping data across cloud and on-premises data environments."
+  },
+  {
+    "question": "Which Azure service enables organizations to discover and govern data across cloud and on-premises data environments?",
+    "options": [
+      "Azure Purview",
+      "Azure Arc",
+      "Azure Monitor",
+      "Azure Security Center"
+    ],
+    "answer": "Azure Purview"
+  },
+
+  {
+    "question": "Which cost model does Azure shift from and to?",
+    "options": [
+      "From Operational Expenditure (OpEx) to Capital Expenditure (CapEx)",
+      "From Capital Expenditure (CapEx) to Operational Expenditure (OpEx)",
+      "From Fixed Expenditure (FixEx) to Variable Expenditure (VarEx)",
+      "From Variable Expenditure (VarEx) to Fixed Expenditure (FixEx)"
+    ],
+    "answer": "From Capital Expenditure (CapEx) to Operational Expenditure (OpEx)"
+  },
+  {
+    "question": "Which factor is NOT listed as affecting Azure costs?",
+    "options": [
+      "Type of resource",
+      "Consumption",
+      "Maturity of the resource",
+      "Geography"
+    ],
+    "answer": "Maturity of the resource"
+  },
+  {
+    "question": "How can reserving capacity in Azure affect costs?",
+    "options": [
+      "It increases costs by 72%",
+      "It has no effect on costs",
+      "It decreases costs by offering discounts up to 72%",
+      "It guarantees a fixed cost regardless of usage"
+    ],
+    "answer": "It decreases costs by offering discounts up to 72%"
+  },
+  {
+    "question": "What should you consider when provisioning a virtual machine in Azure?",
+    "options": [
+      "Licenses for the operating system",
+      "Processor and number of cores",
+      "Connected storage and network interface",
+      "All of the above"
+    ],
+    "answer": "All of the above"
+  },
+  {
+    "question": "What is a 'zone' in the context of Azure billing?",
+    "options": [
+      "A geographic region where Azure resources are cheaper",
+      "A geographic grouping of Azure regions for billing purposes",
+      "A type of Azure subscription",
+      "A type of resource that is billed at a premium rate"
+    ],
+    "answer": "A geographic grouping of Azure regions for billing purposes"
+  },
+  {
+    "question": "Why might Azure costs differ based on geography?",
+    "options": [
+      "Different costs of energy, labor, taxes, and tariffs",
+      "Different costs of storage types",
+      "Different costs of subscription types",
+      "Different costs of network interfaces"
+    ],
+    "answer": "Different costs of energy, labor, taxes, and tariffs"
+  },
+  {
+    "question": "What is one benefit of using reserved capacity in Azure?",
+    "options": [
+      "It allows for maximum flexibility with no cost changes",
+      "It provides savings on predictable and consistent workloads",
+      "It eliminates the need for monitoring resource usage",
+      "It guarantees no additional costs during peak usage"
+    ],
+    "answer": "It provides savings on predictable and consistent workloads"
+  },
+  {
+    "question": "Which Azure tool helps manage and monitor additional resources that might not be deprovisioned along with a virtual machine?",
+    "options": [
+      "Azure Resource Manager",
+      "Azure Cost Management",
+      "Azure Policy",
+      "Azure Advisor"
+    ],
+    "answer": "Azure Resource Manager"
+  },
+  {
+    "question": "How does Azure Marketplace affect costs?",
+    "options": [
+      "It provides all services for free",
+      "It only charges for Azure services, not third-party services",
+      "It can increase costs due to third-party services and expertise",
+      "It reduces costs by 50% for all services"
+    ],
+    "answer": "It can increase costs due to third-party services and expertise"
+  },
+  {
+    "question": "What does the type of Azure subscription influence?",
+    "options": [
+      "The cost and availability of certain resources",
+      "The type of operating system you can use",
+      "The number of users you can add",
+      "The geographic location of resources"
+    ],
+    "answer": "The cost and availability of certain resources"
+  }
+]
